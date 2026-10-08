@@ -1,0 +1,74 @@
+{
+    "model": "DenseNet121 baseline",
+    "dataset": "aptos",
+    "initialization": "ImageNet-pretrained DenseNet121",
+    "image_size": 224,
+    "num_classes": 5,
+    "class_names": [
+        "No_DR",
+        "Mild",
+        "Moderate",
+        "Severe",
+        "Proliferative_DR"
+    ],
+    "epochs": 50,
+    "batch_size": 16,
+    "learning_rate": 0.0001,
+    "weight_decay": 1e-05,
+    "dropout": 0.5,
+    "oversampling": "Random oversampling on TRAIN only after 80/10/10 split",
+    "split": "80/10/10 before training-only oversampling",
+    "augmentation": {
+        "rotation": "up to 40 degrees",
+        "width_shift": 0.2,
+        "height_shift": 0.2,
+        "shear_range_radians": 0.2,
+        "zoom_range": 0.2,
+        "horizontal_flip_probability": 0.5,
+        "fill_mode": "nearest approximation via edge replication"
+    },
+    "preprocessing": {
+        "resize": "224x224",
+        "rescale": "1/255",
+        "standardization": "zero mean / unit variance",
+        "mean": [
+            0.41415025362822855,
+            0.22187222255033237,
+            0.07458266008580716
+        ],
+        "std": [
+            0.2747625441870989,
+            0.14976201393972147,
+            0.08108983605956457
+        ]
+    },
+    "sizes": {
+        "original": 3504,
+        "balanced": 7185,
+        "train": 7185,
+        "validation": 351,
+        "test": 349
+    },
+    "split_overlap_due_to_pre_split_oversampling": {
+        "train_val": 0,
+        "train_test": 0,
+        "val_test": 0
+    },
+    "seed": 42,
+    "no_sklearn": true,
+    "best_epoch": 49,
+    "best_validation_accuracy": 0.8376068376068376,
+    "test_loss": 1.0296108305966616,
+    "test_accuracy": 0.8223495702005731,
+    "test_accuracy_95_ci": [
+        0.7822486144052512,
+        0.862450525995895
+    ],
+    "test_weighted_precision": 0.816059752261213,
+    "test_weighted_recall": 0.8223495702005731,
+    "test_weighted_f1": 0.8165747515538232,
+    "test_macro_f1": 0.6276389548462767,
+    "total_training_time_sec": 14770.752928733826,
+    "best_checkpoint": "A:\\DR_classification\\runs_densenet121\\aptos\\checkpoints\\densenet121_best.pth",
+    "last_checkpoint": "A:\\DR_classification\\runs_densenet121\\aptos\\checkpoints\\densenet121_last.pth"
+}

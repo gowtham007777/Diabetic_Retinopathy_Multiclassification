@@ -1,0 +1,66 @@
+{
+    "model": "CheXNet / DenseNet121 baseline",
+    "initialization": "Original CheXNet checkpoint: A:\\DR_classification\\weights\\m-30012020-104001.pth",
+    "dataset": "ddr",
+    "project_root": "A:\\DR_classification",
+    "organized_root": "A:\\DR_classification\\data\\organized",
+    "image_size": 224,
+    "num_classes": 5,
+    "class_names": [
+        "No_DR",
+        "Mild",
+        "Moderate",
+        "Severe",
+        "Proliferative_DR"
+    ],
+    "split": "Stratified 80/10/10 before oversampling",
+    "stratification": "dataset + DR class",
+    "oversampling": "Random oversampling with replacement on TRAIN ONLY, separately within each dataset",
+    "validation_policy": "Untouched",
+    "test_policy": "Untouched",
+    "normalization_source": "Original training split before oversampling",
+    "normalization_mean": [
+        0.30399407907131376,
+        0.18281766108462172,
+        0.08930072483307352
+    ],
+    "normalization_std": [
+        0.3092918579551514,
+        0.20025216023082093,
+        0.12301929378533431
+    ],
+    "rotation_degrees": 40,
+    "translation": [
+        0.2,
+        0.2
+    ],
+    "shear_approx_degrees": 11.31,
+    "zoom_scale_range": [
+        0.8,
+        1.2
+    ],
+    "horizontal_flip_probability": 0.5,
+    "brightness_jitter": 0.2,
+    "contrast_jitter": 0.2,
+    "epochs": 50,
+    "batch_size": 16,
+    "workers": 2,
+    "learning_rate": 0.0001,
+    "weight_decay": 1e-05,
+    "seed": 42,
+    "train_original_size": 9938,
+    "train_balanced_size": 24665,
+    "validation_size": 1243,
+    "test_size": 1241,
+    "best_epoch": 49,
+    "best_validation_accuracy": 0.7996781979082864,
+    "test_loss": 2.5915344201394572,
+    "test_accuracy": 0.7848509266720387,
+    "test_weighted_precision": 0.7835286412731324,
+    "test_weighted_recall": 0.7848509266720387,
+    "test_weighted_f1": 0.7831806727529641,
+    "test_macro_f1": 0.6127317543671632,
+    "total_training_time_sec": 30885.006964206696,
+    "best_checkpoint": "A:\\DR_classification\\runs_chexnet\\ddr\\checkpoints\\chexnet_best.pth",
+    "last_checkpoint": "A:\\DR_classification\\runs_chexnet\\ddr\\checkpoints\\chexnet_last.pth"
+}

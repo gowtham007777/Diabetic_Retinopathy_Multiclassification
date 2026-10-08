@@ -1,0 +1,28 @@
+DENSENET121 DIABETIC RETINOPATHY TEST REPORT
+======================================================================
+
+Loss            : 1.029611
+Accuracy        : 0.822350
+Accuracy 95% CI : (0.782249, 0.862451)
+Weighted Prec.  : 0.816060
+Weighted Recall : 0.822350
+Weighted F1     : 0.816575
+Macro Precision : 0.651332
+Macro Recall    : 0.621242
+Macro F1        : 0.627639
+
+PER-CLASS METRICS
+----------------------------------------------------------------------
+No_DR               Precision=0.994444  Recall=1.000000  F1=0.997214  Support=179
+Mild                Precision=0.560976  Recall=0.676471  F1=0.613333  Support=34
+Moderate            Precision=0.711340  Recall=0.750000  F1=0.730159  Support=92
+Severe              Precision=0.444444  Recall=0.235294  F1=0.307692  Support=17
+Proliferative_DR    Precision=0.545455  Recall=0.444444  F1=0.489796  Support=27
+
+CONFUSION MATRIX
+----------------------------------------------------------------------
+[[179   0   0   0   0]
+ [  0  23  10   0   1]
+ [  1  15  69   3   4]
+ [  0   0   8   4   5]
+ [  0   3  10   2  12]]

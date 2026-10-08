@@ -1,0 +1,338 @@
+{
+  "MSAG Only": {
+    "accuracy": 0.8475,
+    "macro_f1": 0.8447,
+    "weighted_f1": 0.848,
+    "qwk": 0.9008,
+    "per_class": {
+      "No DR": {
+        "precision": 0.9643,
+        "recall": 0.9818,
+        "f1": 0.973,
+        "support": 110
+      },
+      "Mild": {
+        "precision": 0.783,
+        "recall": 0.8557,
+        "f1": 0.8177,
+        "support": 97
+      },
+      "Moderate": {
+        "precision": 0.729,
+        "recall": 0.8478,
+        "f1": 0.7839,
+        "support": 92
+      },
+      "Severe": {
+        "precision": 0.8404,
+        "recall": 0.7822,
+        "f1": 0.8103,
+        "support": 101
+      },
+      "Proliferative DR": {
+        "precision": 0.9192,
+        "recall": 0.7712,
+        "f1": 0.8387,
+        "support": 118
+      }
+    },
+    "confusion_matrix": [
+      [
+        108,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        83,
+        9,
+        2,
+        1
+      ],
+      [
+        2,
+        7,
+        78,
+        4,
+        1
+      ],
+      [
+        0,
+        6,
+        10,
+        79,
+        6
+      ],
+      [
+        0,
+        8,
+        10,
+        9,
+        91
+      ]
+    ]
+  },
+  "VLM Only (BiomedCLIP)": {
+    "accuracy": 0.3707,
+    "macro_f1": 0.265,
+    "weighted_f1": 0.2853,
+    "qwk": 0.5113,
+    "per_class": {
+      "No DR": {
+        "precision": 0.3927,
+        "recall": 0.9818,
+        "f1": 0.561,
+        "support": 110
+      },
+      "Mild": {
+        "precision": 0.0606,
+        "recall": 0.0412,
+        "f1": 0.0491,
+        "support": 97
+      },
+      "Moderate": {
+        "precision": 0.125,
+        "recall": 0.0109,
+        "f1": 0.02,
+        "support": 92
+      },
+      "Severe": {
+        "precision": 0.2857,
+        "recall": 0.099,
+        "f1": 0.1471,
+        "support": 101
+      },
+      "Proliferative DR": {
+        "precision": 0.5149,
+        "recall": 0.5847,
+        "f1": 0.5476,
+        "support": 118
+      }
+    },
+    "confusion_matrix": [
+      [
+        108,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        83,
+        4,
+        0,
+        3,
+        7
+      ],
+      [
+        19,
+        28,
+        1,
+        15,
+        29
+      ],
+      [
+        39,
+        21,
+        2,
+        10,
+        29
+      ],
+      [
+        26,
+        11,
+        5,
+        7,
+        69
+      ]
+    ]
+  },
+  "Ensemble (w_msag=0.7, w_vlm=0.3)": {
+    "accuracy": 0.8378,
+    "macro_f1": 0.834,
+    "weighted_f1": 0.8369,
+    "qwk": 0.8909,
+    "per_class": {
+      "No DR": {
+        "precision": 0.9083,
+        "recall": 0.9909,
+        "f1": 0.9478,
+        "support": 110
+      },
+      "Mild": {
+        "precision": 0.8265,
+        "recall": 0.8351,
+        "f1": 0.8308,
+        "support": 97
+      },
+      "Moderate": {
+        "precision": 0.7353,
+        "recall": 0.8152,
+        "f1": 0.7732,
+        "support": 92
+      },
+      "Severe": {
+        "precision": 0.8352,
+        "recall": 0.7525,
+        "f1": 0.7917,
+        "support": 101
+      },
+      "Proliferative DR": {
+        "precision": 0.8692,
+        "recall": 0.7881,
+        "f1": 0.8267,
+        "support": 118
+      }
+    },
+    "confusion_matrix": [
+      [
+        109,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        81,
+        8,
+        0,
+        3
+      ],
+      [
+        4,
+        5,
+        75,
+        6,
+        2
+      ],
+      [
+        0,
+        6,
+        10,
+        76,
+        9
+      ],
+      [
+        2,
+        5,
+        9,
+        9,
+        93
+      ]
+    ]
+  },
+  "weight_sensitivity": {
+    "sweep": [
+      {
+        "w_msag": 0.0,
+        "w_vlm": 1.0,
+        "accuracy": 0.3707
+      },
+      {
+        "w_msag": 0.05,
+        "w_vlm": 0.95,
+        "accuracy": 0.3803
+      },
+      {
+        "w_msag": 0.1,
+        "w_vlm": 0.9,
+        "accuracy": 0.3842
+      },
+      {
+        "w_msag": 0.15,
+        "w_vlm": 0.85,
+        "accuracy": 0.3977
+      },
+      {
+        "w_msag": 0.2,
+        "w_vlm": 0.8,
+        "accuracy": 0.4093
+      },
+      {
+        "w_msag": 0.25,
+        "w_vlm": 0.75,
+        "accuracy": 0.4324
+      },
+      {
+        "w_msag": 0.3,
+        "w_vlm": 0.7,
+        "accuracy": 0.4614
+      },
+      {
+        "w_msag": 0.35,
+        "w_vlm": 0.65,
+        "accuracy": 0.4961
+      },
+      {
+        "w_msag": 0.4,
+        "w_vlm": 0.6,
+        "accuracy": 0.5463
+      },
+      {
+        "w_msag": 0.45,
+        "w_vlm": 0.55,
+        "accuracy": 0.5965
+      },
+      {
+        "w_msag": 0.5,
+        "w_vlm": 0.5,
+        "accuracy": 0.6873
+      },
+      {
+        "w_msag": 0.55,
+        "w_vlm": 0.45,
+        "accuracy": 0.778
+      },
+      {
+        "w_msag": 0.6,
+        "w_vlm": 0.4,
+        "accuracy": 0.8166
+      },
+      {
+        "w_msag": 0.65,
+        "w_vlm": 0.35,
+        "accuracy": 0.832
+      },
+      {
+        "w_msag": 0.7,
+        "w_vlm": 0.3,
+        "accuracy": 0.8378
+      },
+      {
+        "w_msag": 0.75,
+        "w_vlm": 0.25,
+        "accuracy": 0.8378
+      },
+      {
+        "w_msag": 0.8,
+        "w_vlm": 0.2,
+        "accuracy": 0.8417
+      },
+      {
+        "w_msag": 0.85,
+        "w_vlm": 0.15,
+        "accuracy": 0.8436
+      },
+      {
+        "w_msag": 0.9,
+        "w_vlm": 0.1,
+        "accuracy": 0.8436
+      },
+      {
+        "w_msag": 0.95,
+        "w_vlm": 0.05,
+        "accuracy": 0.8436
+      },
+      {
+        "w_msag": 1.0,
+        "w_vlm": 0.0,
+        "accuracy": 0.8475
+      }
+    ],
+    "best_w_msag": 1.0,
+    "best_accuracy": 0.8475
+  }
+}

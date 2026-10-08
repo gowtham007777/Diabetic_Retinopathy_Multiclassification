@@ -1,0 +1,25 @@
+CHEXNET DIABETIC RETINOPATHY TEST REPORT
+============================================================
+
+Loss       : 1.515804
+Accuracy   : 0.828080
+Weighted P : 0.830459
+Weighted R : 0.828080
+Weighted F1: 0.828781
+Macro F1   : 0.671499
+
+PER-CLASS METRICS
+------------------------------------------------------------
+No_DR               Precision=0.988950  Recall=1.000000  F1=0.994444  Support=179
+Mild                Precision=0.567568  Recall=0.617647  F1=0.591549  Support=34
+Moderate            Precision=0.764706  Recall=0.706522  F1=0.734463  Support=92
+Severe              Precision=0.421053  Recall=0.470588  F1=0.444444  Support=17
+Proliferative_DR    Precision=0.592593  Recall=0.592593  F1=0.592593  Support=27
+
+CONFUSION MATRIX
+------------------------------------------------------------
+[[179   0   0   0   0]
+ [  2  21   9   1   1]
+ [  0  13  65   7   7]
+ [  0   1   5   8   3]
+ [  0   2   6   3  16]]

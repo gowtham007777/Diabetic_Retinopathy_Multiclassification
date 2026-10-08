@@ -1,0 +1,120 @@
+{
+  "architecture": "EfficientNet-B3 + CBAM",
+  "feature_dim": 1536,
+  "cbam": {
+    "reduction": 8,
+    "kernel_size": 7,
+    "channel_attention": "GAP + GMP + shared MLP",
+    "spatial_attention": "channel avg/max + 7x7 conv"
+  },
+  "classifier": "AdaptiveAvgPool2d -> Flatten -> Linear(1536,768) -> BatchNorm1d -> SiLU -> Dropout(0.45) -> Linear(768,5)",
+  "drop_path_rate": 0.1,
+  "total_parameters": 12471951,
+  "trainable_parameters_initial": 12471951,
+  "checkpoint_loading": {
+    "raw_tensors": 593,
+    "compatible_tensors": 593,
+    "backbone_loaded": 572,
+    "backbone_total": 572,
+    "backbone_load_ratio": 1.0,
+    "shape_mismatch_count": 0,
+    "missing_count": 0,
+    "unexpected_count": 0
+  },
+  "checkpoint_transfer": {
+    "copied_total_target_tensors": 576,
+    "copied_backbone": 572,
+    "backbone_expected": 572,
+    "semantic_head_tensors": 4,
+    "semantic_mappings": [
+      {
+        "source": "severity_classifier.0.weight",
+        "target": "classifier.2.weight",
+        "shape": [
+          768,
+          1536
+        ]
+      },
+      {
+        "source": "severity_classifier.0.bias",
+        "target": "classifier.2.bias",
+        "shape": [
+          768
+        ]
+      },
+      {
+        "source": "severity_classifier.3.weight",
+        "target": "classifier.6.weight",
+        "shape": [
+          5,
+          768
+        ]
+      },
+      {
+        "source": "severity_classifier.3.bias",
+        "target": "classifier.6.bias",
+        "shape": [
+          5
+        ]
+      }
+    ],
+    "new_cbam_head_tensors": 12,
+    "new_random_cbam_head_tensors": 8,
+    "nonmatching_source_tensors": 17,
+    "nonmatching_source_keys": [
+      "attention.2.weight",
+      "attention.2.bias",
+      "attention.4.weight",
+      "attention.4.bias",
+      "feature_norm.weight",
+      "feature_norm.bias",
+      "feature_norm.running_mean",
+      "feature_norm.running_var",
+      "feature_norm.num_batches_tracked",
+      "lesion_detector.0.weight",
+      "lesion_detector.0.bias",
+      "lesion_detector.3.weight",
+      "lesion_detector.3.bias",
+      "region_predictor.0.weight",
+      "region_predictor.0.bias",
+      "region_predictor.3.weight",
+      "region_predictor.3.bias"
+    ],
+    "shape_mismatch_count": 0,
+    "shape_mismatches": []
+  },
+  "preprocessing": {
+    "model_input_size": [
+      300,
+      300
+    ],
+    "normalization_mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "normalization_std": [
+      0.229,
+      0.224,
+      0.225
+    ],
+    "train_augmentation": {
+      "horizontal_flip": 0.5,
+      "rotation_degrees": 12,
+      "translation": [
+        0.04,
+        0.04
+      ],
+      "scale": [
+        0.93,
+        1.07
+      ],
+      "brightness": 0.1,
+      "contrast": 0.1,
+      "saturation": 0.06,
+      "hue": 0.02,
+      "random_resized_crop": false
+    },
+    "validation_test": "Resize 300x300 + ImageNet normalization"
+  }
+}

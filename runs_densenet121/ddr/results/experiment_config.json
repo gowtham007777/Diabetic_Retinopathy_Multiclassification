@@ -1,0 +1,59 @@
+{
+    "model": "DenseNet121 baseline",
+    "dataset": "ddr",
+    "initialization": "ImageNet-pretrained DenseNet121",
+    "image_size": 224,
+    "num_classes": 5,
+    "class_names": [
+        "No_DR",
+        "Mild",
+        "Moderate",
+        "Severe",
+        "Proliferative_DR"
+    ],
+    "epochs": 50,
+    "batch_size": 16,
+    "learning_rate": 0.0001,
+    "weight_decay": 1e-05,
+    "dropout": 0.5,
+    "oversampling": "Random oversampling on TRAIN only after 80/10/10 split",
+    "split": "80/10/10 before training-only oversampling",
+    "augmentation": {
+        "rotation": "up to 40 degrees",
+        "width_shift": 0.2,
+        "height_shift": 0.2,
+        "shear_range_radians": 0.2,
+        "zoom_range": 0.2,
+        "horizontal_flip_probability": 0.5,
+        "fill_mode": "nearest approximation via edge replication"
+    },
+    "preprocessing": {
+        "resize": "224x224",
+        "rescale": "1/255",
+        "standardization": "zero mean / unit variance",
+        "mean": [
+            0.30313866429486247,
+            0.182487457624005,
+            0.0890840406855959
+        ],
+        "std": [
+            0.3088475967542673,
+            0.1999812868301836,
+            0.12284895897161026
+        ]
+    },
+    "sizes": {
+        "original": 12422,
+        "balanced": 24665,
+        "train": 24665,
+        "validation": 1243,
+        "test": 1241
+    },
+    "split_overlap_due_to_pre_split_oversampling": {
+        "train_val": 0,
+        "train_test": 0,
+        "val_test": 0
+    },
+    "seed": 42,
+    "no_sklearn": true
+}

@@ -1,0 +1,519 @@
+path,image_id,eye,true_class,true_label,pred_class,pred_label,confidence,prob_0,prob_1,prob_2,prob_3,prob_4
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\04aef84a2cc1.png,04aef84a2cc1,N/A,0,No DR,0,No DR,0.9903956,0.9903956,0.0021208632,0.0029335706,0.0017809464,0.0027690462
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\0b2ea8f268cf.png,0b2ea8f268cf,N/A,0,No DR,0,No DR,0.99325436,0.99325436,0.0035536403,0.00096500816,0.00070560613,0.0015214263
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\0babc12807b2.png,0babc12807b2,N/A,0,No DR,1,Mild,0.66111314,0.013494196,0.66111314,0.2931666,0.0068689017,0.025357114
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\0d744aed4d64.png,0d744aed4d64,N/A,0,No DR,0,No DR,0.9755127,0.9755127,0.014234923,0.003318065,0.0032889957,0.0036453702
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\0e94cd271c00.png,0e94cd271c00,N/A,0,No DR,0,No DR,0.9437756,0.9437756,0.018208774,0.007305755,0.027919551,0.002790322
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\1509d097b69a.png,1509d097b69a,N/A,0,No DR,0,No DR,0.94969356,0.94969356,0.014333204,0.020399952,0.009054091,0.006519185
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\15c24478ac72.png,15c24478ac72,N/A,0,No DR,0,No DR,0.97281003,0.97281003,0.007964825,0.010119759,0.004747617,0.0043578176
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\1ca91751be4d.png,1ca91751be4d,N/A,0,No DR,0,No DR,0.96987164,0.96987164,0.012149587,0.0070710885,0.0059442213,0.00496346
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\1f4fb37e0854.png,1f4fb37e0854,N/A,0,No DR,0,No DR,0.98571026,0.98571026,0.005743658,0.0004271472,0.0076261037,0.0004927813
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\207dd0487264.png,207dd0487264,N/A,0,No DR,0,No DR,0.9481814,0.9481814,0.038968228,0.0055481307,0.0053098244,0.0019923788
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\20f86e068276.png,20f86e068276,N/A,0,No DR,0,No DR,0.992046,0.992046,0.0030345197,0.002712462,0.0009567149,0.0012503538
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\2209daf71aab.png,2209daf71aab,N/A,0,No DR,0,No DR,0.8003556,0.8003556,0.13746126,0.0400196,0.016803771,0.0053597144
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\25b4080f598b.png,25b4080f598b,N/A,0,No DR,0,No DR,0.99163646,0.99163646,0.001885057,0.0027553733,0.0017897907,0.0019332238
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\26d60db3bbfd.png,26d60db3bbfd,N/A,0,No DR,1,Mild,0.61357665,0.30655712,0.61357665,0.054483157,0.012509713,0.012873408
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\2b10f138e67d.png,2b10f138e67d,N/A,0,No DR,0,No DR,0.8144872,0.8144872,0.12924398,0.023239983,0.021795185,0.01123375
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\2d07162a13b1.png,2d07162a13b1,N/A,0,No DR,0,No DR,0.38296163,0.38296163,0.21832557,0.38044658,0.0068078586,0.0114584295
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\2eba4279e503.png,2eba4279e503,N/A,0,No DR,0,No DR,0.9603879,0.9603879,0.019153712,0.014481018,0.0018339481,0.004143395
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\31360e44ac64.png,31360e44ac64,N/A,0,No DR,0,No DR,0.96120465,0.96120465,0.022032913,0.007568727,0.0054052323,0.0037884347
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\3323fd59782e.png,3323fd59782e,N/A,0,No DR,0,No DR,0.9866087,0.9866087,0.004105001,0.005967159,0.0013816024,0.0019374395
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\342edf9b889d.png,342edf9b889d,N/A,0,No DR,0,No DR,0.9897014,0.9897014,0.0034865458,0.0034051542,0.0020709578,0.0013359566
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\35ac70c0d08f.png,35ac70c0d08f,N/A,0,No DR,0,No DR,0.98264647,0.98264647,0.005951038,0.004886603,0.004832405,0.0016834264
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\370f575adb23.png,370f575adb23,N/A,0,No DR,0,No DR,0.99484396,0.99484396,0.0013471165,0.0013693103,0.0011336639,0.0013059572
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\38373431d996.png,38373431d996,N/A,0,No DR,0,No DR,0.98872083,0.98872083,0.0015424332,0.0021684067,0.003451863,0.004116577
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\3cd9713c0ecb.png,3cd9713c0ecb,N/A,0,No DR,0,No DR,0.99184287,0.99184287,0.00091934035,0.0036969772,0.0024398202,0.0011010263
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\3dec415b188a.png,3dec415b188a,N/A,0,No DR,0,No DR,0.9715431,0.9715431,0.0066889874,0.009641934,0.007612581,0.0045134635
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\41ab357d103f.png,41ab357d103f,N/A,0,No DR,0,No DR,0.9156244,0.9156244,0.06818294,0.0060053235,0.0078097438,0.0023774903
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\4276b82e4489.png,4276b82e4489,N/A,0,No DR,0,No DR,0.9466805,0.9466805,0.037384693,0.008758504,0.005664285,0.0015119927
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\44a86263117b.png,44a86263117b,N/A,0,No DR,0,No DR,0.8460737,0.8460737,0.015696753,0.12644371,0.0058562616,0.005929539
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\4c17e85686f0.png,4c17e85686f0,N/A,0,No DR,0,No DR,0.94233537,0.94233537,0.035231717,0.0045269704,0.012193277,0.005712645
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\4c635a01593d.png,4c635a01593d,N/A,0,No DR,0,No DR,0.9902542,0.9902542,0.0022644382,0.004688026,0.0017733194,0.0010198833
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\4cfd22ae43d4.png,4cfd22ae43d4,N/A,0,No DR,0,No DR,0.9654385,0.9654385,0.016836371,0.0059721586,0.008167781,0.0035851048
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\4e8585a96739.png,4e8585a96739,N/A,0,No DR,0,No DR,0.95896184,0.95896184,0.032306403,0.0030838202,0.0038502358,0.0017976025
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\4e85aa647534.png,4e85aa647534,N/A,0,No DR,0,No DR,0.99649966,0.99649966,0.0015498787,0.0011711501,0.0003861955,0.0003930557
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\51e656e5a541.png,51e656e5a541,N/A,0,No DR,0,No DR,0.9926041,0.9926041,0.0030382227,0.0020324767,0.001468428,0.0008568577
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\571bbdbf585e.png,571bbdbf585e,N/A,0,No DR,0,No DR,0.99444747,0.99444747,0.001551683,0.001901779,0.0014171948,0.0006818776
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\5c817060c0ed.png,5c817060c0ed,N/A,0,No DR,0,No DR,0.97727656,0.97727656,0.0053702435,0.010697843,0.003186709,0.0034686027
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\5f4a8c074bd5.png,5f4a8c074bd5,N/A,0,No DR,0,No DR,0.9708331,0.9708331,0.009467334,0.008315704,0.008422723,0.0029611841
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\5fcff7280019.png,5fcff7280019,N/A,0,No DR,0,No DR,0.73692113,0.73692113,0.24539949,0.009151901,0.0030714667,0.0054560797
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\606daaf0bfc7.png,606daaf0bfc7,N/A,0,No DR,0,No DR,0.891517,0.891517,0.036566034,0.030201245,0.037611753,0.0041040257
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\67d8f94f04e0.png,67d8f94f04e0,N/A,0,No DR,0,No DR,0.9959091,0.9959091,0.0010804558,0.00125574,0.0011574532,0.0005972463
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\683023cda6a5.png,683023cda6a5,N/A,0,No DR,0,No DR,0.75654364,0.75654364,0.2260771,0.005688386,0.009258715,0.0024321396
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\6a2642131e4a.png,6a2642131e4a,N/A,0,No DR,0,No DR,0.9879661,0.9879661,0.00339869,0.0048200134,0.0023574145,0.001457676
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\6b30767595d8.png,6b30767595d8,N/A,0,No DR,0,No DR,0.9887382,0.9887382,0.00079393905,0.005437111,0.0034515255,0.0015793241
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\6c30dd481717.png,6c30dd481717,N/A,0,No DR,0,No DR,0.96880126,0.96880126,0.013585805,0.010206431,0.0053848606,0.0020216166
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\6c6505a0c637.png,6c6505a0c637,N/A,0,No DR,0,No DR,0.86947644,0.86947644,0.120534435,0.0053885793,0.0031520154,0.0014485255
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\6ccfdb031184.png,6ccfdb031184,N/A,0,No DR,1,Mild,0.66096365,0.18536529,0.66096365,0.004556738,0.13524555,0.01386887
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\6d9effbcde78.png,6d9effbcde78,N/A,0,No DR,0,No DR,0.89695585,0.89695585,0.08556918,0.0026308557,0.00393147,0.010912626
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\6fbaaf8eb67a.png,6fbaaf8eb67a,N/A,0,No DR,0,No DR,0.52616775,0.52616775,0.30915436,0.04300651,0.02769189,0.093979485
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\7131bf4c9e6f.png,7131bf4c9e6f,N/A,0,No DR,0,No DR,0.7199847,0.7199847,0.2763642,0.0011379444,0.00025074848,0.0022624307
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\726dff37edc0.png,726dff37edc0,N/A,0,No DR,0,No DR,0.9453181,0.9453181,0.03555519,0.0027469164,0.0058470783,0.010532719
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\784d6d302f98.png,784d6d302f98,N/A,0,No DR,0,No DR,0.9834378,0.9834378,0.004569597,0.004850412,0.004380557,0.002761687
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\799214e8b07c.png,799214e8b07c,N/A,0,No DR,0,No DR,0.9903045,0.9903045,0.0026125645,0.003025118,0.0020093138,0.0020484165
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\7a46cfa69bae.png,7a46cfa69bae,N/A,0,No DR,0,No DR,0.9734948,0.9734948,0.00504786,0.003936971,0.013510734,0.0040096124
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\7d0a871c45db.png,7d0a871c45db,N/A,0,No DR,0,No DR,0.98988485,0.98988485,0.0030856838,0.0015008284,0.004337238,0.0011913565
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\8241e43408a8.png,8241e43408a8,N/A,0,No DR,0,No DR,0.9573157,0.9573157,0.014173719,0.016016861,0.007940696,0.004552953
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\83a63c4a3e4a.png,83a63c4a3e4a,N/A,0,No DR,0,No DR,0.9916238,0.9916238,0.0017109164,0.003069065,0.0023651335,0.0012310143
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\83fda7c0500b.png,83fda7c0500b,N/A,0,No DR,0,No DR,0.978434,0.978434,0.010223981,0.0036381478,0.006306301,0.001397529
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\8448af27ba07.png,8448af27ba07,N/A,0,No DR,0,No DR,0.98747253,0.98747253,0.0042304643,0.0032856504,0.0021951587,0.0028161663
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\84b472c49cfa.png,84b472c49cfa,N/A,0,No DR,0,No DR,0.96902657,0.96902657,0.023081576,0.0026318382,0.0027373484,0.0025226944
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\874f8c1929f6.png,874f8c1929f6,N/A,0,No DR,0,No DR,0.95675915,0.95675915,0.00902797,0.023526136,0.0046568834,0.006029835
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\881ec6186e68.png,881ec6186e68,N/A,0,No DR,0,No DR,0.9819196,0.9819196,0.006773991,0.00598359,0.003233375,0.0020894613
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\896ad584a841.png,896ad584a841,N/A,0,No DR,0,No DR,0.9738308,0.9738308,0.010111583,0.0066515184,0.0069315233,0.0024745709
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\8af50c9d0a86.png,8af50c9d0a86,N/A,0,No DR,0,No DR,0.9399184,0.9399184,0.043753326,0.012478316,0.0010778278,0.0027721298
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\8d9516ea3587.png,8d9516ea3587,N/A,0,No DR,0,No DR,0.98242754,0.98242754,0.007909641,0.0028382905,0.00582021,0.001004384
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\8ead17dfb6a6.png,8ead17dfb6a6,N/A,0,No DR,0,No DR,0.9967624,0.9967624,0.0007034212,0.0012396068,0.00096286344,0.0003318013
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\8f06ca4642bd.png,8f06ca4642bd,N/A,0,No DR,0,No DR,0.99403244,0.99403244,0.0008920396,0.0029994587,0.00039587094,0.0016801291
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\901a3552fe26.png,901a3552fe26,N/A,0,No DR,0,No DR,0.9811328,0.9811328,0.0037088508,0.002334009,0.009697332,0.0031269712
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\99240ee00485.png,99240ee00485,N/A,0,No DR,0,No DR,0.99276733,0.99276733,0.0011655391,0.001617674,0.0025165875,0.001932847
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\9bd008aab548.png,9bd008aab548,N/A,0,No DR,0,No DR,0.9852938,0.9852938,0.0038705948,0.0025126007,0.0058887815,0.0024341515
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\9d1feed37610.png,9d1feed37610,N/A,0,No DR,0,No DR,0.9856038,0.9856038,0.0037852486,0.0047649685,0.00485582,0.0009902131
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\9f8112c710be.png,9f8112c710be,N/A,0,No DR,0,No DR,0.9603359,0.9603359,0.01046851,0.018442875,0.0041685537,0.006584106
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\a384e688e228.png,a384e688e228,N/A,0,No DR,0,No DR,0.97743326,0.97743326,0.007979229,0.008750999,0.0020405804,0.0037958845
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\a654b25124c3.png,a654b25124c3,N/A,0,No DR,0,No DR,0.9895147,0.9895147,0.0017616738,0.0032748308,0.0041190498,0.0013298034
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\a82a12ad3fb1.png,a82a12ad3fb1,N/A,0,No DR,0,No DR,0.61975,0.61975,0.3522997,0.0025926195,0.01143731,0.01392042
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\ab724603ee93.png,ab724603ee93,N/A,0,No DR,0,No DR,0.8755039,0.8755039,0.09201849,0.006488148,0.024480911,0.0015085124
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\ace287a5c991.png,ace287a5c991,N/A,0,No DR,1,Mild,0.5274769,0.45761618,0.5274769,0.0018685963,0.008787921,0.0042503974
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\ad944bd56bb6.png,ad944bd56bb6,N/A,0,No DR,0,No DR,0.9935644,0.9935644,0.0014343879,0.0018509433,0.001751509,0.0013987712
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\aebe87a423c8.png,aebe87a423c8,N/A,0,No DR,0,No DR,0.70105356,0.70105356,0.0054226946,0.009446166,0.056776527,0.22730103
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\b0f0fa677d5f.png,b0f0fa677d5f,N/A,0,No DR,0,No DR,0.97651684,0.97651684,0.00432416,0.005400458,0.01193899,0.0018194902
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\b46b09a45f39.png,b46b09a45f39,N/A,0,No DR,0,No DR,0.9848868,0.9848868,0.0042629633,0.0031488854,0.0041364566,0.0035648844
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\b5204c0decc7.png,b5204c0decc7,N/A,0,No DR,0,No DR,0.9812065,0.9812065,0.0043300395,0.0054859635,0.007173694,0.0018037641
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\b70e7c26f51e.png,b70e7c26f51e,N/A,0,No DR,0,No DR,0.9959674,0.9959674,0.00077073625,0.0019054879,0.00057451753,0.0007819324
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\b72f59b85f7c.png,b72f59b85f7c,N/A,0,No DR,0,No DR,0.9973955,0.9973955,0.00093187665,0.00063405535,0.00031393135,0.0007245391
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\b759cbef90c5.png,b759cbef90c5,N/A,0,No DR,0,No DR,0.96366763,0.96366763,0.011175616,0.011877189,0.010190324,0.0030892948
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\c096131ad065.png,c096131ad065,N/A,0,No DR,0,No DR,0.9574694,0.9574694,0.01587366,0.014330641,0.007980803,0.0043454794
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\cb68fce07789.png,cb68fce07789,N/A,0,No DR,0,No DR,0.99688524,0.99688524,0.0004207455,0.0014818478,0.00061029335,0.00060191005
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\cd01f4f83336.png,cd01f4f83336,N/A,0,No DR,1,Mild,0.5143359,0.4448215,0.5143359,0.009646672,0.028366098,0.0028297794
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\cd314653a4d8.png,cd314653a4d8,N/A,0,No DR,0,No DR,0.991557,0.991557,0.0021094591,0.0026020077,0.0027394793,0.0009920824
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\d3dfd0a2dee6.png,d3dfd0a2dee6,N/A,0,No DR,0,No DR,0.9863172,0.9863172,0.004090105,0.004345842,0.0032811225,0.0019657721
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\d69698f838db.png,d69698f838db,N/A,0,No DR,0,No DR,0.9762873,0.9762873,0.011727844,0.0038238775,0.005486002,0.0026749044
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\d871895742b1.png,d871895742b1,N/A,0,No DR,0,No DR,0.98428637,0.98428637,0.008751235,0.0036489237,0.0026249362,0.0006884738
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\d9c9b9786da3.png,d9c9b9786da3,N/A,0,No DR,0,No DR,0.9895549,0.9895549,0.0019078325,0.0015893397,0.0040107733,0.0029371497
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\da9574d35b82.png,da9574d35b82,N/A,0,No DR,0,No DR,0.9625414,0.9625414,0.022401337,0.0028988372,0.010519384,0.0016389996
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\da9fe02dead3.png,da9fe02dead3,N/A,0,No DR,0,No DR,0.97506523,0.97506523,0.014444694,0.0055786045,0.0031341522,0.0017773808
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\dcc6c0ad5cad.png,dcc6c0ad5cad,N/A,0,No DR,0,No DR,0.65613353,0.65613353,0.29034942,0.021424888,0.009624232,0.022467986
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\de18071c36e6.png,de18071c36e6,N/A,0,No DR,0,No DR,0.9286797,0.9286797,0.049978327,0.0045518894,0.015239505,0.0015505119
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\e12f9f19d1be.png,e12f9f19d1be,N/A,0,No DR,0,No DR,0.9709663,0.9709663,0.022499152,0.0034022739,0.002666854,0.00046536868
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\ef48780f5d5f.png,ef48780f5d5f,N/A,0,No DR,0,No DR,0.9901125,0.9901125,0.002532619,0.0018248793,0.004840614,0.00068946683
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\f02057c41256.png,f02057c41256,N/A,0,No DR,0,No DR,0.9939507,0.9939507,0.0029022354,0.0018301079,0.00082472595,0.0004923271
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\f0a2dc580009.png,f0a2dc580009,N/A,0,No DR,0,No DR,0.99126,0.99126,0.00433403,0.00096420135,0.0031380062,0.00030369975
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\f451eee2b66b.png,f451eee2b66b,N/A,0,No DR,0,No DR,0.98088926,0.98088926,0.0058271345,0.0048707738,0.0051292363,0.0032836031
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\f66c4ee86629.png,f66c4ee86629,N/A,0,No DR,0,No DR,0.99511886,0.99511886,0.00019097925,0.0038145727,0.00016122653,0.0007143404
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\f7116e7b2f4e.png,f7116e7b2f4e,N/A,0,No DR,0,No DR,0.9825743,0.9825743,0.003333429,0.004527829,0.005875105,0.0036892684
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\f86d1c404acb.png,f86d1c404acb,N/A,0,No DR,1,Mild,0.5069888,0.47095028,0.5069888,0.007857531,0.007822271,0.0063810735
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\f9d52509c571.png,f9d52509c571,N/A,0,No DR,0,No DR,0.954675,0.954675,0.026620205,0.005780726,0.0080044335,0.0049196566
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\f9d8ff3e6592.png,f9d8ff3e6592,N/A,0,No DR,0,No DR,0.9890387,0.9890387,0.0068109855,0.001991849,0.0015113627,0.000647001
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\fc782722a50c.png,fc782722a50c,N/A,0,No DR,0,No DR,0.9854857,0.9854857,0.0058118654,0.0030472898,0.004698927,0.00095619034
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\fcc32dffd24d.png,fcc32dffd24d,N/A,0,No DR,0,No DR,0.9267987,0.9267987,0.06391347,0.0019705377,0.0034381538,0.0038790794
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\fd87b6b2e664.png,fd87b6b2e664,N/A,0,No DR,0,No DR,0.9905928,0.9905928,0.0021995786,0.0030897611,0.0020186142,0.0020992968
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\fed5bb685832.png,fed5bb685832,N/A,0,No DR,0,No DR,0.95002544,0.95002544,0.014629781,0.01861177,0.0127028255,0.0040300894
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-0096-000.jpg,007-0096-000,N/A,1,Mild,1,Mild,0.9855064,0.002479469,0.9855064,0.00084414333,0.0075552133,0.0036147728
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-0106-000.jpg,007-0106-000,N/A,1,Mild,1,Mild,0.9928889,0.0012158204,0.9928889,0.00060597144,0.0033018992,0.001987318
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-0664-000.jpg,007-0664-000,N/A,1,Mild,1,Mild,0.8594644,0.0025684878,0.8594644,0.0055229794,0.111148596,0.021295488
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-0708-000.jpg,007-0708-000,N/A,1,Mild,1,Mild,0.94972557,0.0027738905,0.94972557,0.002284708,0.042219102,0.0029967148
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-1047-000.jpg,007-1047-000,N/A,1,Mild,1,Mild,0.879467,0.07039713,0.879467,0.008395274,0.027680304,0.014060224
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-1822-100.jpg,007-1822-100,N/A,1,Mild,1,Mild,0.9709681,0.015992275,0.9709681,0.0048840474,0.004893573,0.00326201
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-1835-100.jpg,007-1835-100,N/A,1,Mild,1,Mild,0.9893078,0.00076896255,0.9893078,0.00054864393,0.0044216197,0.004952994
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-1846-100.jpg,007-1846-100,N/A,1,Mild,1,Mild,0.9667897,0.020993182,0.9667897,0.003078954,0.005150827,0.0039872373
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-1865-100.jpg,007-1865-100,N/A,1,Mild,1,Mild,0.96847713,0.012175787,0.96847713,0.004190264,0.004199084,0.010957754
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-1897-100.jpg,007-1897-100,N/A,1,Mild,1,Mild,0.97569114,0.0020378344,0.97569114,0.0023318331,0.018320488,0.0016187913
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-1920-100.jpg,007-1920-100,N/A,1,Mild,2,Moderate,0.45374426,0.0067984764,0.4521055,0.45374426,0.07223325,0.015118582
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-1924-100.jpg,007-1924-100,N/A,1,Mild,1,Mild,0.95966387,0.0057512955,0.95966387,0.007115362,0.024185859,0.0032836748
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-1934-100.jpg,007-1934-100,N/A,1,Mild,1,Mild,0.9945057,0.0029026817,0.9945057,0.0007130294,0.0009699442,0.0009086305
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-1980-100.jpg,007-1980-100,N/A,1,Mild,1,Mild,0.9956364,0.0014405553,0.9956364,0.00065107597,0.0015260484,0.0007458255
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2009-100.jpg,007-2009-100,N/A,1,Mild,1,Mild,0.99079895,0.0059042852,0.99079895,0.0007695919,0.0018317451,0.0006955193
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2034-100.jpg,007-2034-100,N/A,1,Mild,1,Mild,0.9865194,0.003222905,0.9865194,0.0013240178,0.006728744,0.0022050187
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2041-100.jpg,007-2041-100,N/A,1,Mild,1,Mild,0.99229264,0.00090186525,0.99229264,0.0018174482,0.004054815,0.00093328895
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2096-100.jpg,007-2096-100,N/A,1,Mild,1,Mild,0.98895395,0.00015270631,0.98895395,0.00046495954,0.006702873,0.0037255217
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2102-100.jpg,007-2102-100,N/A,1,Mild,1,Mild,0.980924,0.0042324094,0.980924,0.00074231706,0.012395837,0.0017054161
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2128-100.jpg,007-2128-100,N/A,1,Mild,1,Mild,0.9019804,0.0013255761,0.9019804,0.0028563375,0.074337386,0.019500379
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2154-100.jpg,007-2154-100,N/A,1,Mild,1,Mild,0.9794536,0.0025362498,0.9794536,0.005529492,0.0057117916,0.006768811
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2164-100.jpg,007-2164-100,N/A,1,Mild,1,Mild,0.9580651,0.024902819,0.9580651,0.0032728983,0.0044048913,0.009354356
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2173-100.jpg,007-2173-100,N/A,1,Mild,1,Mild,0.9963415,0.0009265515,0.9963415,0.00064920814,0.0007829198,0.0012997624
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2188-100.jpg,007-2188-100,N/A,1,Mild,0,No DR,0.47053152,0.47053152,0.46384126,0.04467783,0.0057318457,0.0152174905
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2201-100.jpg,007-2201-100,N/A,1,Mild,1,Mild,0.934038,0.003327513,0.934038,0.011096196,0.023228096,0.02831021
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2262-100.jpg,007-2262-100,N/A,1,Mild,1,Mild,0.9984666,0.00017891696,0.9984666,0.00036582656,0.0007709431,0.00021778293
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2286-100.jpg,007-2286-100,N/A,1,Mild,1,Mild,0.7833357,0.004803006,0.7833357,0.011266041,0.19080716,0.009788139
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2300-100.jpg,007-2300-100,N/A,1,Mild,3,Severe,0.68359053,0.0035364188,0.30216727,0.0045083384,0.68359053,0.0061974786
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2324-100.jpg,007-2324-100,N/A,1,Mild,1,Mild,0.9862862,0.010321036,0.9862862,0.0007326993,0.0017748512,0.00088513753
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2363-100.jpg,007-2363-100,N/A,1,Mild,1,Mild,0.9821414,0.00093476335,0.9821414,0.0015515928,0.013381103,0.0019911686
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2376-100.jpg,007-2376-100,N/A,1,Mild,1,Mild,0.93487144,0.0015744369,0.93487144,0.003029801,0.05316418,0.007360107
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2389-100.jpg,007-2389-100,N/A,1,Mild,1,Mild,0.97112995,0.0006276544,0.97112995,0.0024600595,0.024860758,0.00092152774
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2396-100.jpg,007-2396-100,N/A,1,Mild,1,Mild,0.9846752,0.00065643317,0.9846752,0.0013544785,0.012372109,0.00094170566
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2410-100.jpg,007-2410-100,N/A,1,Mild,1,Mild,0.9955004,0.0002660489,0.9955004,0.00083613914,0.0028096319,0.00058780046
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2465-100.jpg,007-2465-100,N/A,1,Mild,1,Mild,0.9662793,0.009043737,0.9662793,0.0050709075,0.013158402,0.006447654
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2520-100.jpg,007-2520-100,N/A,1,Mild,1,Mild,0.9685223,0.023439175,0.9685223,0.0013529522,0.0027095622,0.0039760526
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2532-100.jpg,007-2532-100,N/A,1,Mild,1,Mild,0.83828,0.13280845,0.83828,0.00891056,0.008444769,0.011556173
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2540-100.jpg,007-2540-100,N/A,1,Mild,1,Mild,0.8318412,0.14596844,0.8318412,0.0013702523,0.010591555,0.010228674
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2551-100.jpg,007-2551-100,N/A,1,Mild,1,Mild,0.94741577,0.012422811,0.94741577,0.023361608,0.0022812018,0.014518571
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2566-100.jpg,007-2566-100,N/A,1,Mild,1,Mild,0.59730864,0.005265176,0.59730864,0.014682734,0.32202563,0.060717825
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2600-100.jpg,007-2600-100,N/A,1,Mild,1,Mild,0.90992284,0.07208111,0.90992284,0.0014866637,0.009179725,0.0073297056
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2650-100.jpg,007-2650-100,N/A,1,Mild,1,Mild,0.9775558,0.0032711744,0.9775558,0.0024164747,0.013602249,0.0031542045
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2672-100.jpg,007-2672-100,N/A,1,Mild,1,Mild,0.86654794,0.034021214,0.86654794,0.009716592,0.0840079,0.005706252
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2689-100.jpg,007-2689-100,N/A,1,Mild,1,Mild,0.8659305,0.002121309,0.8659305,0.018469721,0.04929629,0.06418221
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2715-100.jpg,007-2715-100,N/A,1,Mild,1,Mild,0.9067204,0.0009670977,0.9067204,0.033370536,0.023900537,0.03504142
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2723-100.jpg,007-2723-100,N/A,1,Mild,1,Mild,0.98450804,0.0005702051,0.98450804,0.00082917284,0.0095516015,0.0045410255
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2769-100.jpg,007-2769-100,N/A,1,Mild,1,Mild,0.9718722,0.0013976153,0.9718722,0.0025856562,0.022238564,0.0019059615
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2771-100.jpg,007-2771-100,N/A,1,Mild,1,Mild,0.9382304,0.0018553059,0.9382304,0.0059363586,0.03439203,0.019585934
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2812-100.jpg,007-2812-100,N/A,1,Mild,1,Mild,0.9680675,0.000797544,0.9680675,0.002511286,0.026310127,0.002313537
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2837-100.jpg,007-2837-100,N/A,1,Mild,3,Severe,0.7781394,0.015406355,0.043327816,0.010023464,0.7781394,0.15310298
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2841-100.jpg,007-2841-100,N/A,1,Mild,1,Mild,0.9812408,0.00074579765,0.9812408,0.0014957632,0.014656232,0.0018613744
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2848-100.jpg,007-2848-100,N/A,1,Mild,1,Mild,0.6665616,0.13011245,0.6665616,0.025310794,0.14755192,0.030463161
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2877-100.jpg,007-2877-100,N/A,1,Mild,1,Mild,0.97010607,0.015162013,0.97010607,0.0039650574,0.0074341525,0.003332759
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2879-100.jpg,007-2879-100,N/A,1,Mild,1,Mild,0.99284416,0.00018132536,0.99284416,0.00063513755,0.0059944517,0.00034484014
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2883-100.jpg,007-2883-100,N/A,1,Mild,1,Mild,0.9651702,0.0014746485,0.9651702,0.0011812758,0.03070529,0.0014685255
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2962-100.jpg,007-2962-100,N/A,1,Mild,1,Mild,0.97844154,0.00068587204,0.97844154,0.0009781644,0.016414998,0.0034794502
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-3008-100.jpg,007-3008-100,N/A,1,Mild,1,Mild,0.7851484,0.0015866052,0.7851484,0.0065037445,0.18615946,0.020601809
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-3048-100.jpg,007-3048-100,N/A,1,Mild,1,Mild,0.99798596,0.00014276276,0.99798596,0.00018798592,0.0004616225,0.0012217386
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-3068-100.jpg,007-3068-100,N/A,1,Mild,1,Mild,0.98942274,0.0009875627,0.98942274,0.0013324413,0.008019068,0.00023814916
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-3088-100.jpg,007-3088-100,N/A,1,Mild,1,Mild,0.9870762,0.00087760185,0.9870762,0.0009762096,0.009307248,0.0017627542
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-3090-100.jpg,007-3090-100,N/A,1,Mild,1,Mild,0.9021948,0.00407312,0.9021948,0.017123587,0.06322675,0.013381816
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-3095-100.jpg,007-3095-100,N/A,1,Mild,1,Mild,0.9508096,0.008335779,0.9508096,0.0007922328,0.020207511,0.01985486
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-3119-100.jpg,007-3119-100,N/A,1,Mild,1,Mild,0.96446997,0.0053696735,0.96446997,0.0021041713,0.016928712,0.011127427
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-3128-100.jpg,007-3128-100,N/A,1,Mild,1,Mild,0.8996112,0.07317156,0.8996112,0.0017011722,0.0059957947,0.019520294
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-3169-100.jpg,007-3169-100,N/A,1,Mild,1,Mild,0.9715838,0.00042746973,0.9715838,0.008148776,0.0017057657,0.018134288
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-3179-100.jpg,007-3179-100,N/A,1,Mild,1,Mild,0.9898114,0.005632183,0.9898114,0.0005186102,0.0017740391,0.0022637881
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-3189-100.jpg,007-3189-100,N/A,1,Mild,4,Proliferative DR,0.5731156,0.0066044573,0.26802832,0.003834543,0.14841709,0.5731156
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-3260-100.jpg,007-3260-100,N/A,1,Mild,3,Severe,0.50856155,0.022745108,0.24027476,0.10220968,0.50856155,0.12620895
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\0124dffecf29.png,0124dffecf29,N/A,1,Mild,1,Mild,0.67488164,0.015090823,0.67488164,0.29651153,0.006913628,0.0066023865
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\0a3202889f4d.png,0a3202889f4d,N/A,1,Mild,1,Mild,0.586315,0.018040251,0.586315,0.38608605,0.0022995442,0.0072592166
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\19722bff5a09.png,19722bff5a09,N/A,1,Mild,1,Mild,0.8041949,0.035288565,0.8041949,0.13146244,0.016550966,0.012503082
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\1d674e2e32e0.png,1d674e2e32e0,N/A,1,Mild,2,Moderate,0.45846593,0.018645316,0.116242886,0.45846593,0.02418668,0.3824592
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\20170516160126110.jpg,20170516160126110,N/A,1,Mild,1,Mild,0.9758942,0.0023579125,0.9758942,0.0019628499,0.016566098,0.0032189921
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\20170522165511476.jpg,20170522165511476,N/A,1,Mild,1,Mild,0.982242,0.0010620259,0.982242,0.0013085386,0.011596272,0.0037912016
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\20170627192035083.jpg,20170627192035083,N/A,1,Mild,1,Mild,0.99672675,0.00041867944,0.99672675,0.00054515654,0.001510977,0.0007983404
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\3461dc601cc2.png,3461dc601cc2,N/A,1,Mild,2,Moderate,0.8277828,0.0042999806,0.035498895,0.8277828,0.12242706,0.009991292
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\36677b70b1ef.png,36677b70b1ef,N/A,1,Mild,2,Moderate,0.8301964,0.0080581615,0.14706445,0.8301964,0.00596509,0.0087159965
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\3c726de3ee90.png,3c726de3ee90,N/A,1,Mild,1,Mild,0.5778258,0.024946293,0.5778258,0.37804282,0.010669895,0.008515184
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\4cae247d9909.png,4cae247d9909,N/A,1,Mild,2,Moderate,0.74632823,0.0860351,0.13400014,0.74632823,0.0138115315,0.019825025
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\5777ef74c9ec.png,5777ef74c9ec,N/A,1,Mild,1,Mild,0.86014414,0.090307616,0.86014414,0.0187334,0.006448045,0.024366774
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\5b0e53f53ef3.png,5b0e53f53ef3,N/A,1,Mild,1,Mild,0.8738555,0.030950926,0.8738555,0.04711085,0.015074322,0.03300833
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\6298468d7d75.png,6298468d7d75,N/A,1,Mild,2,Moderate,0.9033079,0.0036892605,0.074459486,0.9033079,0.011422536,0.0071207504
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\655cafb4c932.png,655cafb4c932,N/A,1,Mild,1,Mild,0.74974364,0.00081385294,0.74974364,0.24100493,0.00063095946,0.007806583
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\66cd9c28e636.png,66cd9c28e636,N/A,1,Mild,1,Mild,0.78523314,0.0068542766,0.78523314,0.18384081,0.007269897,0.016801832
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\67f5d89da548.png,67f5d89da548,N/A,1,Mild,2,Moderate,0.6284557,0.024070378,0.255026,0.6284557,0.0294297,0.063018136
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\8714d17bb6da.png,8714d17bb6da,N/A,1,Mild,1,Mild,0.8389119,0.0887752,0.8389119,0.03805699,0.017438013,0.016817836
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\89ed6a0dd53f.png,89ed6a0dd53f,N/A,1,Mild,1,Mild,0.45756078,0.023296261,0.45756078,0.44964248,0.009741682,0.059758898
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\ae8472f8d310.png,ae8472f8d310,N/A,1,Mild,1,Mild,0.8692975,0.02364262,0.8692975,0.09131491,0.0037438932,0.012001088
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\b22354b5f94b.png,b22354b5f94b,N/A,1,Mild,1,Mild,0.59010565,0.029978048,0.59010565,0.3177172,0.024394274,0.03780483
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\c56e65f74187.png,c56e65f74187,N/A,1,Mild,2,Moderate,0.8551301,0.0035152445,0.10379177,0.8551301,0.023290861,0.014272025
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\c7b622ec8104.png,c7b622ec8104,N/A,1,Mild,1,Mild,0.75380117,0.0034623186,0.75380117,0.22985859,0.005789087,0.007088854
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\cae51154e1ce.png,cae51154e1ce,N/A,1,Mild,1,Mild,0.5626874,0.0015531636,0.5626874,0.4308215,0.0031502284,0.0017877505
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\cfd1bd0fcbb4.png,cfd1bd0fcbb4,N/A,1,Mild,0,No DR,0.94740766,0.94740766,0.027638733,0.0090069575,0.012244363,0.0037023188
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\e07045d7c5f7.png,e07045d7c5f7,N/A,1,Mild,1,Mild,0.7919718,0.0069411616,0.7919718,0.14591244,0.0027434123,0.052431263
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\f55e1d2a19e4.png,f55e1d2a19e4,N/A,1,Mild,1,Mild,0.9422744,0.0011807479,0.9422744,0.05050891,0.002950682,0.003085285
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\f762c272c522.png,f762c272c522,N/A,1,Mild,2,Moderate,0.8632978,0.008312136,0.10764712,0.8632978,0.011419046,0.009323896
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\fe674c2f73f5.png,fe674c2f73f5,N/A,1,Mild,1,Mild,0.97749054,0.0063765985,0.97749054,0.011924852,0.00060321257,0.003604708
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\071435a218ec.png,071435a218ec,N/A,2,Moderate,2,Moderate,0.93105984,0.008669472,0.014873853,0.93105984,0.023121616,0.02227531
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\08c17a2d95b7.png,08c17a2d95b7,N/A,2,Moderate,2,Moderate,0.6015472,0.0073994105,0.0023527974,0.6015472,0.37855157,0.010149061
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\0953c0ac1735.png,0953c0ac1735,N/A,2,Moderate,2,Moderate,0.45547193,0.014175508,0.15608561,0.45547193,0.16070934,0.21355762
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\09f6ab477654.png,09f6ab477654,N/A,2,Moderate,2,Moderate,0.8999712,0.0023204982,0.06610927,0.8999712,0.022294706,0.009304327
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\0c76fd494af6.png,0c76fd494af6,N/A,2,Moderate,2,Moderate,0.94313735,0.0024275952,0.036251485,0.94313735,0.013663477,0.004520025
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\10eefba568dd.png,10eefba568dd,N/A,2,Moderate,2,Moderate,0.5818343,0.01069651,0.3420888,0.5818343,0.034139812,0.031240545
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\13063d1bc4ea.png,13063d1bc4ea,N/A,2,Moderate,2,Moderate,0.9299255,0.0019203847,0.014195298,0.9299255,0.003619533,0.050339207
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\144b01e7b993.png,144b01e7b993,N/A,2,Moderate,2,Moderate,0.6088776,0.014446681,0.11058678,0.6088776,0.06727823,0.19881076
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\14ee87d6cc42.png,14ee87d6cc42,N/A,2,Moderate,0,No DR,0.7996504,0.7996504,0.17756985,0.016098049,0.0015584582,0.0051232483
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\15528e740543.png,15528e740543,N/A,2,Moderate,2,Moderate,0.812481,0.0068318327,0.112633206,0.812481,0.056726076,0.011327852
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\157d17349cc6.png,157d17349cc6,N/A,2,Moderate,2,Moderate,0.82205147,0.0041654496,0.104736194,0.82205147,0.026107406,0.04293943
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\1bea04b2bb2d.png,1bea04b2bb2d,N/A,2,Moderate,2,Moderate,0.907093,0.0049926643,0.06273119,0.907093,0.013709135,0.011474032
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\1dbdc32c17db.png,1dbdc32c17db,N/A,2,Moderate,2,Moderate,0.878125,0.0024886057,0.05782229,0.878125,0.039792415,0.02177161
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\1e4650743fa2.png,1e4650743fa2,N/A,2,Moderate,2,Moderate,0.6395188,0.0047830506,0.3460607,0.6395188,0.004082704,0.005554768
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\20404ec7b518.png,20404ec7b518,N/A,2,Moderate,2,Moderate,0.6281306,0.012872734,0.32627246,0.6281306,0.0047294064,0.027994791
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\23175b7ef453.png,23175b7ef453,N/A,2,Moderate,2,Moderate,0.90732765,0.0057520824,0.055357803,0.90732765,0.008534999,0.023027362
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\23d7ca170bdb.png,23d7ca170bdb,N/A,2,Moderate,1,Mild,0.5391618,0.008844267,0.5391618,0.40812585,0.0211798,0.022688271
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\269f0792f11f.png,269f0792f11f,N/A,2,Moderate,2,Moderate,0.51134807,0.0145914275,0.019111115,0.51134807,0.437429,0.017520403
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\27b68863349f.png,27b68863349f,N/A,2,Moderate,2,Moderate,0.84854525,0.0032913655,0.12622637,0.84854525,0.009772509,0.0121645555
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\290ecdba359f.png,290ecdba359f,N/A,2,Moderate,2,Moderate,0.92290384,0.0063387915,0.015463336,0.92290384,0.014803141,0.040490877
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\2b88cb6e31cd.png,2b88cb6e31cd,N/A,2,Moderate,2,Moderate,0.9266229,0.005910582,0.038195312,0.9266229,0.015473339,0.013797815
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\2cef97083e6f.png,2cef97083e6f,N/A,2,Moderate,1,Mild,0.6308037,0.008707361,0.6308037,0.34706506,0.011094942,0.0023289665
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\3e6bfc4d5c65.png,3e6bfc4d5c65,N/A,2,Moderate,2,Moderate,0.9394967,0.023219554,0.032404758,0.9394967,0.001290534,0.003588446
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\4242c0d87f57.png,4242c0d87f57,N/A,2,Moderate,2,Moderate,0.822217,0.0025610453,0.029648092,0.822217,0.13220699,0.013366833
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\43fb6eda9b97.png,43fb6eda9b97,N/A,2,Moderate,2,Moderate,0.7544651,0.0041837166,0.19579378,0.7544651,0.027111936,0.018445486
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\441affbe99aa.png,441affbe99aa,N/A,2,Moderate,2,Moderate,0.9200219,0.0021800187,0.019445691,0.9200219,0.046072066,0.012280308
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\465c618f7b23.png,465c618f7b23,N/A,2,Moderate,2,Moderate,0.7905005,0.009724351,0.14263134,0.7905005,0.009097542,0.048046257
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\46f56c38051f.png,46f56c38051f,N/A,2,Moderate,2,Moderate,0.7285203,0.0085699195,0.02360768,0.7285203,0.20685847,0.032443672
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\4a558a1cd243.png,4a558a1cd243,N/A,2,Moderate,2,Moderate,0.9359354,0.0033772613,0.014321189,0.9359354,0.03911885,0.007247327
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\4b1001050f1d.png,4b1001050f1d,N/A,2,Moderate,1,Mild,0.6083912,0.006401383,0.6083912,0.24678606,0.113308094,0.025113232
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\4e43d05cc2ef.png,4e43d05cc2ef,N/A,2,Moderate,2,Moderate,0.8459165,0.0035523823,0.022300357,0.8459165,0.10497849,0.023252295
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\50d8a8fb7737.png,50d8a8fb7737,N/A,2,Moderate,4,Proliferative DR,0.42977157,0.007162384,0.03172491,0.23958881,0.29175228,0.42977157
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\51cfeccaf40d.png,51cfeccaf40d,N/A,2,Moderate,2,Moderate,0.9546285,0.0022555105,0.010326884,0.9546285,0.012258496,0.020530567
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\524f240e0c90.png,524f240e0c90,N/A,2,Moderate,2,Moderate,0.86827976,0.0031220976,0.013109089,0.86827976,0.09944818,0.016040865
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\582f739b8f62.png,582f739b8f62,N/A,2,Moderate,2,Moderate,0.81740475,0.01029344,0.059822,0.81740475,0.065187946,0.047291867
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\5905a9b06a73.png,5905a9b06a73,N/A,2,Moderate,2,Moderate,0.8480396,0.015925473,0.07361016,0.8480396,0.05459273,0.007831936
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\5b301a6d1ac7.png,5b301a6d1ac7,N/A,2,Moderate,0,No DR,0.8999284,0.8999284,0.018552715,0.052093673,0.005617227,0.023807952
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\5c6194562ed2.png,5c6194562ed2,N/A,2,Moderate,2,Moderate,0.60921454,0.010270044,0.31072718,0.60921454,0.062345527,0.00744275
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\5cde55f745af.png,5cde55f745af,N/A,2,Moderate,1,Mild,0.5005485,0.010598243,0.5005485,0.4595871,0.009504028,0.019762136
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\5e18af29d812.png,5e18af29d812,N/A,2,Moderate,2,Moderate,0.65509075,0.008411258,0.29603744,0.65509075,0.01621527,0.024245316
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\5e52c9fe676f.png,5e52c9fe676f,N/A,2,Moderate,2,Moderate,0.87452835,0.0037488337,0.034616474,0.87452835,0.06950744,0.01759893
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\62e6f814c8f5.png,62e6f814c8f5,N/A,2,Moderate,2,Moderate,0.9629257,0.0026375656,0.026088655,0.9629257,0.005304158,0.0030439212
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\63d217b059b6.png,63d217b059b6,N/A,2,Moderate,2,Moderate,0.8136911,0.0032840571,0.1603905,0.8136911,0.011157107,0.011477329
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\66d2ca47aa44.png,66d2ca47aa44,N/A,2,Moderate,2,Moderate,0.95584387,0.0021077956,0.0060009183,0.95584387,0.02935337,0.0066939876
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\6889bc64ab09.png,6889bc64ab09,N/A,2,Moderate,2,Moderate,0.9850605,0.00033056666,0.00647445,0.9850605,0.005454512,0.0026799378
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\70ed3ec68b94.png,70ed3ec68b94,N/A,2,Moderate,2,Moderate,0.8220849,0.0033463356,0.03391783,0.8220849,0.11832381,0.022327062
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\71e4130bf5c8.png,71e4130bf5c8,N/A,2,Moderate,2,Moderate,0.9200721,0.001975403,0.012801252,0.9200721,0.040388055,0.024763236
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\73e83a07a16d.png,73e83a07a16d,N/A,2,Moderate,1,Mild,0.696147,0.0056697754,0.696147,0.27112365,0.014221785,0.012837741
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\7550966ef777.png,7550966ef777,N/A,2,Moderate,2,Moderate,0.7616991,0.02767974,0.06924408,0.7616991,0.043670725,0.09770642
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\76e6a9238570.png,76e6a9238570,N/A,2,Moderate,2,Moderate,0.78571653,0.014294019,0.07969162,0.78571653,0.07297641,0.047321387
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\7743f4e04a6d.png,7743f4e04a6d,N/A,2,Moderate,2,Moderate,0.97488904,0.001580778,0.0125452615,0.97488904,0.009052685,0.0019323145
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\77543f66a84a.png,77543f66a84a,N/A,2,Moderate,2,Moderate,0.8615065,0.0025508497,0.050092556,0.8615065,0.06477309,0.021076895
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\77f69c7ff324.png,77f69c7ff324,N/A,2,Moderate,2,Moderate,0.6988963,0.0029578963,0.0111572165,0.6988963,0.27207544,0.014913185
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\879744b9dc65.png,879744b9dc65,N/A,2,Moderate,2,Moderate,0.7691907,0.0125737935,0.0644517,0.7691907,0.086019546,0.06776422
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\8b26d3cd61e8.png,8b26d3cd61e8,N/A,2,Moderate,2,Moderate,0.45626247,0.011156642,0.1538399,0.45626247,0.17754446,0.20119646
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\8d62ba9cb22a.png,8d62ba9cb22a,N/A,2,Moderate,2,Moderate,0.998312,0.000568901,0.0005632539,0.998312,0.00039449224,0.00016138627
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\907aaff827e5.png,907aaff827e5,N/A,2,Moderate,2,Moderate,0.40412083,0.0077099972,0.06794662,0.40412083,0.23239852,0.28782398
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\96c3e3db68bc.png,96c3e3db68bc,N/A,2,Moderate,2,Moderate,0.95894486,0.0009328667,0.013106047,0.95894486,0.023810029,0.0032061806
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\9b0eb9f41da4.png,9b0eb9f41da4,N/A,2,Moderate,2,Moderate,0.92096907,0.0005707704,0.003536047,0.92096907,0.06993885,0.0049852515
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\9c088d2d1559.png,9c088d2d1559,N/A,2,Moderate,2,Moderate,0.97008824,0.005455222,0.015325992,0.97008824,0.00746001,0.0016705344
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\9dab2e6ba44b.png,9dab2e6ba44b,N/A,2,Moderate,2,Moderate,0.86904806,0.006512427,0.11295683,0.86904806,0.004705219,0.0067775184
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\a476fd984005.png,a476fd984005,N/A,2,Moderate,2,Moderate,0.45311755,0.020550821,0.02595467,0.45311755,0.32930383,0.17107314
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\a47878630dc2.png,a47878630dc2,N/A,2,Moderate,2,Moderate,0.9671455,0.009399586,0.0069999606,0.9671455,0.006157443,0.010297492
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\a4d41c495666.png,a4d41c495666,N/A,2,Moderate,2,Moderate,0.9684885,0.0004218215,0.029724127,0.9684885,0.00036624813,0.0009993239
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\a62ea0043aa7.png,a62ea0043aa7,N/A,2,Moderate,2,Moderate,0.48036972,0.004655441,0.45171857,0.48036972,0.03293407,0.03032218
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\a790a3b36390.png,a790a3b36390,N/A,2,Moderate,2,Moderate,0.5570662,0.010488006,0.3706482,0.5570662,0.021412535,0.04038509
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\ac2c814949f9.png,ac2c814949f9,N/A,2,Moderate,2,Moderate,0.88822967,0.0035962374,0.034943115,0.88822967,0.0650499,0.00818103
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\ac720570dd0f.png,ac720570dd0f,N/A,2,Moderate,2,Moderate,0.9095445,0.014012607,0.06439913,0.9095445,0.0031524473,0.008891369
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\ae8424cdb029.png,ae8424cdb029,N/A,2,Moderate,1,Mild,0.65251476,0.0034958438,0.65251476,0.27702504,0.045557007,0.021407371
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\af8aa32beee4.png,af8aa32beee4,N/A,2,Moderate,2,Moderate,0.92616713,0.008493988,0.018514,0.92616713,0.02485943,0.021965392
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\b3c0c3330278.png,b3c0c3330278,N/A,2,Moderate,2,Moderate,0.5423138,0.012798731,0.30937642,0.5423138,0.060657874,0.07485314
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\b665041e1633.png,b665041e1633,N/A,2,Moderate,1,Mild,0.458124,0.060466483,0.458124,0.35922074,0.050351236,0.071837604
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\b8f1b30877db.png,b8f1b30877db,N/A,2,Moderate,2,Moderate,0.6824359,0.01180966,0.028495569,0.6824359,0.25617272,0.02108612
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\b8fb9f55cd6d.png,b8fb9f55cd6d,N/A,2,Moderate,2,Moderate,0.917471,0.002840201,0.0595046,0.917471,0.014650717,0.00553344
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\bcc762618e7d.png,bcc762618e7d,N/A,2,Moderate,2,Moderate,0.8691197,0.0069493908,0.016934564,0.8691197,0.049647324,0.057349015
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\bfe467b7e997.png,bfe467b7e997,N/A,2,Moderate,1,Mild,0.65000165,0.008229621,0.65000165,0.32271084,0.006750988,0.012306869
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\c5ad60521f8c.png,c5ad60521f8c,N/A,2,Moderate,2,Moderate,0.608324,0.0034775916,0.32673866,0.608324,0.016610159,0.044849597
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\c87493ed320c.png,c87493ed320c,N/A,2,Moderate,2,Moderate,0.94992787,0.0053104553,0.017412795,0.94992787,0.014619047,0.0127298795
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\ca891d37a43c.png,ca891d37a43c,N/A,2,Moderate,2,Moderate,0.81664336,0.0033093635,0.14055015,0.81664336,0.029794049,0.009703161
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\cd9e2190c73f.png,cd9e2190c73f,N/A,2,Moderate,1,Mild,0.6308516,0.0046624397,0.6308516,0.24063201,0.020813031,0.1030409
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\d264396d8d1a.png,d264396d8d1a,N/A,2,Moderate,2,Moderate,0.91620827,0.0044324696,0.041470837,0.91620827,0.024108773,0.013779628
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\d6283ded6aea.png,d6283ded6aea,N/A,2,Moderate,2,Moderate,0.75034195,0.008788669,0.026607106,0.75034195,0.15020995,0.06405229
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\d83d0695e215.png,d83d0695e215,N/A,2,Moderate,2,Moderate,0.8717951,0.00592388,0.0455154,0.8717951,0.01704222,0.05972346
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\d88806d9ece9.png,d88806d9ece9,N/A,2,Moderate,2,Moderate,0.7167234,0.011083379,0.2150653,0.7167234,0.016196443,0.04093152
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\d9bbdc33db83.png,d9bbdc33db83,N/A,2,Moderate,2,Moderate,0.5929991,0.025944583,0.017807294,0.5929991,0.21767603,0.145573
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\de778495a1cd.png,de778495a1cd,N/A,2,Moderate,2,Moderate,0.8748223,0.0075145243,0.043379914,0.8748223,0.0328257,0.04145754
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\e34fa07bd64d.png,e34fa07bd64d,N/A,2,Moderate,4,Proliferative DR,0.6901856,0.0086125145,0.05423079,0.17965877,0.067312256,0.6901856
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\e9129ce55fd7.png,e9129ce55fd7,N/A,2,Moderate,0,No DR,0.83099914,0.83099914,0.0765806,0.043941535,0.043657213,0.004821589
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\ea4dcb055139.png,ea4dcb055139,N/A,2,Moderate,2,Moderate,0.8293683,0.0038903488,0.014409435,0.8293683,0.11671456,0.035617366
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\ee74c3b177e0.png,ee74c3b177e0,N/A,2,Moderate,2,Moderate,0.7427304,0.014628113,0.11820891,0.7427304,0.06622288,0.058209743
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\f3a268d2726d.png,f3a268d2726d,N/A,2,Moderate,2,Moderate,0.8302149,0.00882889,0.03828213,0.8302149,0.06717319,0.055500876
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\f8372e80f731.png,f8372e80f731,N/A,2,Moderate,2,Moderate,0.821047,0.0064955987,0.01813545,0.821047,0.12996258,0.02435932
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-3360-200.jpg,007-3360-200,N/A,3,Severe,3,Severe,0.56558204,0.0073420117,0.009789951,0.12732652,0.56558204,0.2899594
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-3579-200.jpg,007-3579-200,N/A,3,Severe,2,Moderate,0.65045244,0.0006126501,0.035598744,0.65045244,0.27337858,0.03995755
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-3675-200.jpg,007-3675-200,N/A,3,Severe,3,Severe,0.95677334,0.0046692393,0.005229951,0.002880297,0.95677334,0.03044718
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-3705-200.jpg,007-3705-200,N/A,3,Severe,3,Severe,0.5486332,0.018629665,0.049772516,0.06323082,0.5486332,0.31973377
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-3892-200.jpg,007-3892-200,N/A,3,Severe,3,Severe,0.88333774,0.008998344,0.008134763,0.007282718,0.88333774,0.09224635
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-3945-200.jpg,007-3945-200,N/A,3,Severe,4,Proliferative DR,0.9010865,0.028726446,0.02912562,0.005122359,0.03593914,0.9010865
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-4254-200.jpg,007-4254-200,N/A,3,Severe,3,Severe,0.48843727,0.0086391,0.4664277,0.008988852,0.48843727,0.027507013
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-4786-300.jpg,007-4786-300,N/A,3,Severe,3,Severe,0.8748578,0.0035691776,0.0063645374,0.07194693,0.8748578,0.04326151
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-4850-300.jpg,007-4850-300,N/A,3,Severe,3,Severe,0.8724221,0.007101912,0.009229714,0.092396,0.8724221,0.018850248
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-5067-300.jpg,007-5067-300,N/A,3,Severe,3,Severe,0.8358681,0.0043197717,0.014995725,0.004477682,0.8358681,0.14033872
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-5208-300.jpg,007-5208-300,N/A,3,Severe,3,Severe,0.6522905,0.015774742,0.041485995,0.075275004,0.6522905,0.2151737
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-5223-300.jpg,007-5223-300,N/A,3,Severe,3,Severe,0.94390833,0.0034008466,0.0088085905,0.010200559,0.94390833,0.033681568
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-5414-300.jpg,007-5414-300,N/A,3,Severe,3,Severe,0.8447589,0.0024642567,0.046336766,0.026782194,0.8447589,0.07965787
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-5457-300.jpg,007-5457-300,N/A,3,Severe,3,Severe,0.9901389,0.00061382423,0.00548293,0.0023488114,0.9901389,0.001415539
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-5695-300.jpg,007-5695-300,N/A,3,Severe,3,Severe,0.9797997,0.002534667,0.0051506874,0.007391882,0.9797997,0.0051230765
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-5775-300.jpg,007-5775-300,N/A,3,Severe,4,Proliferative DR,0.70046127,0.009189191,0.009943834,0.002204303,0.27820143,0.70046127
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-5822-300.jpg,007-5822-300,N/A,3,Severe,3,Severe,0.98832697,0.0008963325,0.002173235,0.0039675785,0.98832697,0.004635856
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-5865-300.jpg,007-5865-300,N/A,3,Severe,3,Severe,0.6372367,0.0018592473,0.30695397,0.010049611,0.6372367,0.043900497
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-5885-300.jpg,007-5885-300,N/A,3,Severe,3,Severe,0.9339189,0.014172556,0.0060462966,0.007380307,0.9339189,0.038481966
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-6093-300.jpg,007-6093-300,N/A,3,Severe,3,Severe,0.97258186,0.0010287884,0.0021737895,0.019236594,0.97258186,0.0049789557
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-6164-300.jpg,007-6164-300,N/A,3,Severe,3,Severe,0.61319,0.005211083,0.2042175,0.044920202,0.61319,0.13246122
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-6226-300.jpg,007-6226-300,N/A,3,Severe,3,Severe,0.92674124,0.0044175806,0.009574886,0.051551733,0.92674124,0.00771454
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\069f43616fab.png,069f43616fab,N/A,3,Severe,3,Severe,0.76706624,0.009621029,0.044727087,0.10012092,0.76706624,0.07846468
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\166068a24416.png,166068a24416,N/A,3,Severe,1,Mild,0.5195453,0.012829839,0.5195453,0.1520559,0.03671966,0.27884924
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\20170531173341782.jpg,20170531173341782,N/A,3,Severe,1,Mild,0.9770155,0.0007227226,0.9770155,0.0014249219,0.01959704,0.0012399001
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\20170609095102337.jpg,20170609095102337,N/A,3,Severe,3,Severe,0.94891715,0.00068911625,0.029616503,0.0019437824,0.94891715,0.018833399
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\2b48daf24be0.png,2b48daf24be0,N/A,3,Severe,2,Moderate,0.58055115,0.018303828,0.010030929,0.58055115,0.111670464,0.27944365
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\383e72af1955.png,383e72af1955,N/A,3,Severe,2,Moderate,0.93811315,0.008106747,0.008752461,0.93811315,0.035726912,0.009300709
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\39aa3cd93c50.png,39aa3cd93c50,N/A,3,Severe,3,Severe,0.72392946,0.0034424446,0.010131527,0.061437346,0.72392946,0.20105927
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\3b018e8b7303.png,3b018e8b7303,N/A,3,Severe,2,Moderate,0.65732336,0.02871813,0.019101271,0.65732336,0.2575978,0.037259474
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\4294a14c656a.png,4294a14c656a,N/A,3,Severe,2,Moderate,0.51299995,0.011447307,0.05024114,0.51299995,0.30178303,0.12352854
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\6d0c0531083f.png,6d0c0531083f,N/A,3,Severe,2,Moderate,0.88929003,0.0041490016,0.015360381,0.88929003,0.07205915,0.01914141
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\7b29e3783919.png,7b29e3783919,N/A,3,Severe,2,Moderate,0.6667114,0.00538911,0.020338036,0.6667114,0.23829016,0.06927136
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\8a234d68b27e.png,8a234d68b27e,N/A,3,Severe,2,Moderate,0.7201141,0.011300945,0.008567166,0.7201141,0.23094559,0.029072143
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\a14fcf84bfe1.png,a14fcf84bfe1,N/A,3,Severe,2,Moderate,0.8433452,0.0036968424,0.010449234,0.8433452,0.08665624,0.055852477
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\adb56cecafaf.png,adb56cecafaf,N/A,3,Severe,2,Moderate,0.84132284,0.007791248,0.06597335,0.84132284,0.056856938,0.028055664
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\aea59ebec445.png,aea59ebec445,N/A,3,Severe,2,Moderate,0.5627217,0.016411364,0.09420154,0.5627217,0.20578884,0.12087647
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\b310bd564329.png,b310bd564329,N/A,3,Severe,2,Moderate,0.7381652,0.037939318,0.040455673,0.7381652,0.15268455,0.03075533
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\bb7e0a2544cd.png,bb7e0a2544cd,N/A,3,Severe,3,Severe,0.5255218,0.0063771727,0.008453083,0.016546333,0.5255218,0.4431016
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\d3e884109b45.png,d3e884109b45,N/A,3,Severe,3,Severe,0.6422213,0.0012002374,0.0049636024,0.34261346,0.6422213,0.009001485
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_11069_right.jpeg,eyepacs_11069_right,Right,3,Severe,3,Severe,0.99134165,0.00078276946,0.0009761692,0.006521139,0.99134165,0.00037834395
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_12208_left.jpeg,eyepacs_12208_left,Left,3,Severe,3,Severe,0.985107,0.0008242145,0.0029870379,0.0075375447,0.985107,0.003544118
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_12612_left.jpeg,eyepacs_12612_left,Left,3,Severe,3,Severe,0.992469,0.0010719686,0.0020881027,0.0029420357,0.992469,0.0014288833
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_13022_left.jpeg,eyepacs_13022_left,Left,3,Severe,3,Severe,0.9819281,0.0002499643,0.0025376321,0.00012469852,0.9819281,0.015159578
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_1391_left.jpeg,eyepacs_1391_left,Left,3,Severe,3,Severe,0.9995976,8.5718086e-05,5.6962628e-05,0.00015390209,0.9995976,0.00010582329
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_14224_left.jpeg,eyepacs_14224_left,Left,3,Severe,3,Severe,0.9849117,0.0009041492,0.0073893205,0.0044313986,0.9849117,0.002363461
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_14482_left.jpeg,eyepacs_14482_left,Left,3,Severe,3,Severe,0.99495184,0.0020837847,0.002019525,0.00052710355,0.99495184,0.00041776887
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_15798_left.jpeg,eyepacs_15798_left,Left,3,Severe,3,Severe,0.48001227,0.03127831,0.42072487,0.058577973,0.48001227,0.009406577
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_17749_right.jpeg,eyepacs_17749_right,Right,3,Severe,3,Severe,0.9873269,0.00095647055,0.0015921827,0.008012879,0.9873269,0.0021114459
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_17953_right.jpeg,eyepacs_17953_right,Right,3,Severe,3,Severe,0.97371554,0.0014962632,0.0028774892,0.01857084,0.97371554,0.0033398946
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_18416_right.jpeg,eyepacs_18416_right,Right,3,Severe,3,Severe,0.98432714,0.00038975134,0.0075348713,0.0033248502,0.98432714,0.004423507
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_18450_left.jpeg,eyepacs_18450_left,Left,3,Severe,3,Severe,0.9961035,0.000307702,0.0009988841,0.0010643875,0.9961035,0.0015255382
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_19920_right.jpeg,eyepacs_19920_right,Right,3,Severe,3,Severe,0.99048156,0.0013879453,0.0009136093,0.0068350425,0.99048156,0.00038176504
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_20760_right.jpeg,eyepacs_20760_right,Right,3,Severe,3,Severe,0.99910235,0.00014650417,0.00042547597,8.857247e-05,0.99910235,0.00023714865
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_21444_right.jpeg,eyepacs_21444_right,Right,3,Severe,3,Severe,0.72811115,0.008532582,0.027260529,0.04031316,0.72811115,0.19578259
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_21796_left.jpeg,eyepacs_21796_left,Left,3,Severe,3,Severe,0.91660583,0.011752179,0.0128502175,0.0046838103,0.91660583,0.054107912
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_21825_right.jpeg,eyepacs_21825_right,Right,3,Severe,1,Mild,0.9964485,0.00016486493,0.9964485,0.0004889956,0.0022613762,0.0006362945
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_22930_left.jpeg,eyepacs_22930_left,Left,3,Severe,3,Severe,0.97965497,0.0058857347,0.0035193774,0.002450733,0.97965497,0.008489178
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_23245_right.jpeg,eyepacs_23245_right,Right,3,Severe,3,Severe,0.9176098,0.011956491,0.024937838,0.01574738,0.9176098,0.029748436
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_23884_left.jpeg,eyepacs_23884_left,Left,3,Severe,3,Severe,0.9860298,0.0023514626,0.0031711368,0.0061630537,0.9860298,0.0022845669
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_24232_left.jpeg,eyepacs_24232_left,Left,3,Severe,3,Severe,0.6524253,0.009084976,0.29034147,0.0045795697,0.6524253,0.043568633
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_25533_right.jpeg,eyepacs_25533_right,Right,3,Severe,3,Severe,0.96464443,0.013075403,0.0073165135,0.013053947,0.96464443,0.0019097199
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_25593_right.jpeg,eyepacs_25593_right,Right,3,Severe,3,Severe,0.98667336,0.0011369912,0.005492473,0.0037208297,0.98667336,0.0029763174
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_27653_left.jpeg,eyepacs_27653_left,Left,3,Severe,1,Mild,0.54996127,0.00035444106,0.54996127,0.004931549,0.42949218,0.015260539
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_2767_left.jpeg,eyepacs_2767_left,Left,3,Severe,3,Severe,0.98859763,0.0026395821,0.0012919733,0.0033692934,0.98859763,0.0041014724
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_27939_right.jpeg,eyepacs_27939_right,Right,3,Severe,3,Severe,0.98242664,0.0020086418,0.004068165,0.0070296824,0.98242664,0.0044668233
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_28052_left.jpeg,eyepacs_28052_left,Left,3,Severe,3,Severe,0.94348305,0.0075438195,0.006505285,0.0030698853,0.94348305,0.039398003
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_28052_right.jpeg,eyepacs_28052_right,Right,3,Severe,3,Severe,0.9892503,0.0030037875,0.0019219399,0.0023106846,0.9892503,0.003513274
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_28901_right.jpeg,eyepacs_28901_right,Right,3,Severe,3,Severe,0.96535736,0.0009790186,0.0035802475,0.028389893,0.96535736,0.0016935206
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_30666_right.jpeg,eyepacs_30666_right,Right,3,Severe,3,Severe,0.99745303,0.00071980624,0.00061836466,0.0004463224,0.99745303,0.0007624953
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_31426_left.jpeg,eyepacs_31426_left,Left,3,Severe,3,Severe,0.9978911,0.000481492,0.0006970539,0.0005630196,0.9978911,0.00036726694
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_31647_right.jpeg,eyepacs_31647_right,Right,3,Severe,1,Mild,0.93796057,0.011960592,0.93796057,0.008595053,0.03476184,0.00672194
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_31962_left.jpeg,eyepacs_31962_left,Left,3,Severe,3,Severe,0.9897551,0.0015531856,0.0049560843,0.0014670842,0.9897551,0.0022685432
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_32000_left.jpeg,eyepacs_32000_left,Left,3,Severe,3,Severe,0.9900225,0.00057423563,0.0040781004,0.00484221,0.9900225,0.00048299218
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_32603_right.jpeg,eyepacs_32603_right,Right,3,Severe,3,Severe,0.97207254,0.002916024,0.0055434476,0.0036673562,0.97207254,0.015800618
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_33287_right.jpeg,eyepacs_33287_right,Right,3,Severe,4,Proliferative DR,0.790609,0.024347082,0.15142857,0.014697656,0.018917736,0.790609
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_33374_left.jpeg,eyepacs_33374_left,Left,3,Severe,3,Severe,0.9974552,0.00036828947,0.0013382571,0.0004753911,0.9974552,0.00036281935
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_33432_right.jpeg,eyepacs_33432_right,Right,3,Severe,2,Moderate,0.9074213,0.0032907273,0.046264317,0.9074213,0.035210963,0.007812644
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_33840_left.jpeg,eyepacs_33840_left,Left,3,Severe,3,Severe,0.59229714,0.020308746,0.38011324,0.002797141,0.59229714,0.0044837794
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_34571_left.jpeg,eyepacs_34571_left,Left,3,Severe,3,Severe,0.9643783,0.0012626682,0.0073735085,0.012997421,0.9643783,0.013988078
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_34918_left.jpeg,eyepacs_34918_left,Left,3,Severe,3,Severe,0.957739,0.0024195858,0.03375605,0.0045807967,0.957739,0.0015046018
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_35710_left.jpeg,eyepacs_35710_left,Left,3,Severe,3,Severe,0.9962451,0.00044795446,0.0004948496,0.0011002704,0.9962451,0.0017117885
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_35710_right.jpeg,eyepacs_35710_right,Right,3,Severe,3,Severe,0.99745315,0.0004648884,0.00031714805,0.0016320962,0.99745315,0.0001326847
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_36213_right.jpeg,eyepacs_36213_right,Right,3,Severe,3,Severe,0.5911312,0.0022360038,0.36626014,0.01734031,0.5911312,0.02303237
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_36691_left.jpeg,eyepacs_36691_left,Left,3,Severe,3,Severe,0.99449426,0.0023504714,0.0012858442,0.0014993254,0.99449426,0.00037006845
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_36767_right.jpeg,eyepacs_36767_right,Right,3,Severe,3,Severe,0.9859162,0.0020779213,0.003394709,0.001297963,0.9859162,0.0073131532
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_36832_left.jpeg,eyepacs_36832_left,Left,3,Severe,3,Severe,0.99962604,1.2848573e-05,0.00017773364,5.963059e-05,0.99962604,0.00012377705
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_3773_right.jpeg,eyepacs_3773_right,Right,3,Severe,3,Severe,0.9855832,0.0007817589,0.0036285734,0.0036394056,0.9855832,0.0063670087
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_3988_left.jpeg,eyepacs_3988_left,Left,3,Severe,3,Severe,0.97692204,0.0024553249,0.0052007237,0.008175124,0.97692204,0.0072468356
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_42428_left.jpeg,eyepacs_42428_left,Left,3,Severe,3,Severe,0.8883096,0.0033240793,0.102485135,0.0012792066,0.8883096,0.0046018907
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_42891_left.jpeg,eyepacs_42891_left,Left,3,Severe,3,Severe,0.99238914,9.738156e-05,0.0026930345,0.0013033901,0.99238914,0.003517065
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_5304_left.jpeg,eyepacs_5304_left,Left,3,Severe,3,Severe,0.88011503,0.006915244,0.036827717,0.014340282,0.88011503,0.06180164
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_687_left.jpeg,eyepacs_687_left,Left,3,Severe,3,Severe,0.99759716,0.00060592004,0.00049828674,0.0010748372,0.99759716,0.00022380355
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_7276_left.jpeg,eyepacs_7276_left,Left,3,Severe,3,Severe,0.9957461,0.0010627273,0.00089010765,0.0014723584,0.9957461,0.0008287361
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_7883_right.jpeg,eyepacs_7883_right,Right,3,Severe,4,Proliferative DR,0.56960434,0.008102639,0.22016653,0.0068062567,0.19532028,0.56960434
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_7959_left.jpeg,eyepacs_7959_left,Left,3,Severe,3,Severe,0.98464787,0.0058964402,0.0014581594,0.003905057,0.98464787,0.004092428
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_8699_right.jpeg,eyepacs_8699_right,Right,3,Severe,3,Severe,0.9897132,0.0010084845,0.0021430263,0.002361959,0.9897132,0.0047733295
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_9001_left.jpeg,eyepacs_9001_left,Left,3,Severe,3,Severe,0.9979284,0.000515686,0.0003538923,0.0005419589,0.9979284,0.00066008966
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_9001_right.jpeg,eyepacs_9001_right,Right,3,Severe,3,Severe,0.99317694,0.0030423023,0.00090124446,0.0015650486,0.99317694,0.0013144112
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_9951_left.jpeg,eyepacs_9951_left,Left,3,Severe,3,Severe,0.9651873,0.0020327012,0.0051754694,0.02218629,0.9651873,0.0054181926
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\f092febbf5c0.png,f092febbf5c0,N/A,3,Severe,2,Moderate,0.8577652,0.0084219305,0.011010005,0.8577652,0.088403314,0.034399573
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-3122-100.jpg,007-3122-100,N/A,4,Proliferative DR,1,Mild,0.42262325,0.018357486,0.42262325,0.39224067,0.09315102,0.073627636
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-3979-200.jpg,007-3979-200,N/A,4,Proliferative DR,4,Proliferative DR,0.9632934,0.0033763987,0.007228483,0.0010570121,0.025044644,0.9632934
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6284-400.jpg,007-6284-400,N/A,4,Proliferative DR,4,Proliferative DR,0.9640053,0.0013300931,0.0011264989,0.00021664605,0.0333215,0.9640053
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6290-400.jpg,007-6290-400,N/A,4,Proliferative DR,4,Proliferative DR,0.9818988,0.0020256743,0.0035641803,0.0043294556,0.008181799,0.9818988
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6299-400.jpg,007-6299-400,N/A,4,Proliferative DR,4,Proliferative DR,0.8478142,0.0058040833,0.020262994,0.009435577,0.11668312,0.8478142
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6327-400.jpg,007-6327-400,N/A,4,Proliferative DR,4,Proliferative DR,0.9813075,0.0078045656,0.0033408199,0.004069744,0.0034773569,0.9813075
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6344-400.jpg,007-6344-400,N/A,4,Proliferative DR,4,Proliferative DR,0.67132163,0.002698071,0.04685408,0.0042673177,0.27485898,0.67132163
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6348-400.jpg,007-6348-400,N/A,4,Proliferative DR,4,Proliferative DR,0.8343348,0.008119352,0.013876574,0.01909942,0.124569885,0.8343348
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6350-400.jpg,007-6350-400,N/A,4,Proliferative DR,4,Proliferative DR,0.7500064,0.011012946,0.01967213,0.012909804,0.20639879,0.7500064
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6427-400.jpg,007-6427-400,N/A,4,Proliferative DR,4,Proliferative DR,0.8381493,0.0025449754,0.04094159,0.020711303,0.09765287,0.8381493
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6436-400.jpg,007-6436-400,N/A,4,Proliferative DR,4,Proliferative DR,0.96966815,0.0033429756,0.009052927,0.005052159,0.012883792,0.96966815
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6442-400.jpg,007-6442-400,N/A,4,Proliferative DR,4,Proliferative DR,0.929223,0.014329047,0.014248859,0.005295078,0.03690404,0.929223
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6446-400.jpg,007-6446-400,N/A,4,Proliferative DR,4,Proliferative DR,0.98712325,0.0014117216,0.005794366,0.003130962,0.0025396927,0.98712325
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6460-400.jpg,007-6460-400,N/A,4,Proliferative DR,4,Proliferative DR,0.9769469,0.0034111363,0.007073305,0.0025607483,0.010007928,0.9769469
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6461-400.jpg,007-6461-400,N/A,4,Proliferative DR,4,Proliferative DR,0.7751593,0.003938611,0.055379648,0.0056159017,0.15990654,0.7751593
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6465-400.jpg,007-6465-400,N/A,4,Proliferative DR,4,Proliferative DR,0.9808605,0.0010005286,0.016097074,0.0013446793,0.0006972965,0.9808605
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6474-400.jpg,007-6474-400,N/A,4,Proliferative DR,3,Severe,0.96174103,0.0024951573,0.003264146,0.01810995,0.96174103,0.014389771
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6500-400.jpg,007-6500-400,N/A,4,Proliferative DR,4,Proliferative DR,0.9849182,0.0014149707,0.008815573,0.0017670873,0.0030842968,0.9849182
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6521-400.jpg,007-6521-400,N/A,4,Proliferative DR,3,Severe,0.8084263,0.0017387153,0.031082848,0.01039391,0.8084263,0.14835821
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6526-400.jpg,007-6526-400,N/A,4,Proliferative DR,4,Proliferative DR,0.9543485,0.005382677,0.010123463,0.005107027,0.025038356,0.9543485
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6554-400.jpg,007-6554-400,N/A,4,Proliferative DR,4,Proliferative DR,0.4855348,0.011547102,0.021636806,0.013058661,0.46822265,0.4855348
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6564-400.jpg,007-6564-400,N/A,4,Proliferative DR,4,Proliferative DR,0.68843573,0.021895166,0.06589187,0.014712791,0.20906445,0.68843573
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6565-400.jpg,007-6565-400,N/A,4,Proliferative DR,4,Proliferative DR,0.873728,0.021306964,0.05267426,0.0072412905,0.045049474,0.873728
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6566-400.jpg,007-6566-400,N/A,4,Proliferative DR,4,Proliferative DR,0.982041,0.0047393725,0.0060156235,0.0026639174,0.0045401077,0.982041
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6567-400.jpg,007-6567-400,N/A,4,Proliferative DR,4,Proliferative DR,0.95526314,0.0057035247,0.008808948,0.009076903,0.021147612,0.95526314
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6579-400.jpg,007-6579-400,N/A,4,Proliferative DR,4,Proliferative DR,0.98460346,0.002082338,0.005184741,0.002688998,0.005440461,0.98460346
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6584-400.jpg,007-6584-400,N/A,4,Proliferative DR,4,Proliferative DR,0.69993246,0.013515283,0.05613521,0.011253015,0.21916398,0.69993246
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6586-400.jpg,007-6586-400,N/A,4,Proliferative DR,4,Proliferative DR,0.97003067,0.00088827894,0.0045649675,0.00072532694,0.02379078,0.97003067
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6592-400.jpg,007-6592-400,N/A,4,Proliferative DR,4,Proliferative DR,0.48496857,0.021347668,0.024545273,0.020030383,0.44910815,0.48496857
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6597-400.jpg,007-6597-400,N/A,4,Proliferative DR,3,Severe,0.86169314,0.006796162,0.020343127,0.00843759,0.86169314,0.102729924
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6610-400.jpg,007-6610-400,N/A,4,Proliferative DR,3,Severe,0.66188765,0.022168936,0.036452025,0.04911232,0.66188765,0.23037907
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6611-400.jpg,007-6611-400,N/A,4,Proliferative DR,3,Severe,0.51946163,0.021513278,0.010704944,0.020311372,0.51946163,0.4280088
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6620-400.jpg,007-6620-400,N/A,4,Proliferative DR,3,Severe,0.9059142,0.0016586282,0.005250121,0.058991592,0.9059142,0.028185522
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6621-400.jpg,007-6621-400,N/A,4,Proliferative DR,4,Proliferative DR,0.91029316,0.007876589,0.03499768,0.022657031,0.024175512,0.91029316
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6631-400.jpg,007-6631-400,N/A,4,Proliferative DR,4,Proliferative DR,0.79080254,0.016777603,0.024681877,0.0538936,0.11384434,0.79080254
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6686-400.jpg,007-6686-400,N/A,4,Proliferative DR,3,Severe,0.5272938,0.008161922,0.007133638,0.044184405,0.5272938,0.4132262
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6688-400.jpg,007-6688-400,N/A,4,Proliferative DR,4,Proliferative DR,0.99340034,0.002636208,0.0010614651,0.0014658608,0.0014361532,0.99340034
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6689-400.jpg,007-6689-400,N/A,4,Proliferative DR,4,Proliferative DR,0.91411203,0.0010360528,0.011420513,0.02786369,0.045567658,0.91411203
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6697-400.jpg,007-6697-400,N/A,4,Proliferative DR,1,Mild,0.5193073,0.08203808,0.5193073,0.013651294,0.057933304,0.32706997
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6719-400.jpg,007-6719-400,N/A,4,Proliferative DR,4,Proliferative DR,0.9335154,0.009178859,0.010070089,0.029973304,0.017262327,0.9335154
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6741-400.jpg,007-6741-400,N/A,4,Proliferative DR,4,Proliferative DR,0.9120227,0.005839194,0.009233024,0.0024587219,0.07044629,0.9120227
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6752-400.jpg,007-6752-400,N/A,4,Proliferative DR,1,Mild,0.48306286,0.3622717,0.48306286,0.03955817,0.04794217,0.06716508
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6757-400.jpg,007-6757-400,N/A,4,Proliferative DR,4,Proliferative DR,0.76299137,0.009982603,0.017023178,0.005171601,0.20483135,0.76299137
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6772-400.jpg,007-6772-400,N/A,4,Proliferative DR,4,Proliferative DR,0.89043486,0.0021972293,0.06566838,0.0066650873,0.035034403,0.89043486
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6791-400.jpg,007-6791-400,N/A,4,Proliferative DR,4,Proliferative DR,0.90679175,0.008881061,0.020457271,0.013846194,0.050023664,0.90679175
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6795-400.jpg,007-6795-400,N/A,4,Proliferative DR,4,Proliferative DR,0.96115005,0.002462362,0.0107861245,0.0036218252,0.021979596,0.96115005
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6808-400.jpg,007-6808-400,N/A,4,Proliferative DR,1,Mild,0.5305071,0.009232019,0.5305071,0.018427843,0.32351807,0.11831494
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6844-400.jpg,007-6844-400,N/A,4,Proliferative DR,4,Proliferative DR,0.804379,0.013031392,0.020894866,0.0019501128,0.15974464,0.804379
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6854-400.jpg,007-6854-400,N/A,4,Proliferative DR,4,Proliferative DR,0.7249798,0.00782612,0.030319054,0.0066911182,0.23018382,0.7249798
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6865-400.jpg,007-6865-400,N/A,4,Proliferative DR,4,Proliferative DR,0.75653,0.03198045,0.037621684,0.063801914,0.11006589,0.75653
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6878-400.jpg,007-6878-400,N/A,4,Proliferative DR,4,Proliferative DR,0.5438606,0.00097425445,0.42500216,0.0042262673,0.025936697,0.5438606
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6883-400.jpg,007-6883-400,N/A,4,Proliferative DR,4,Proliferative DR,0.9496799,0.009221637,0.0130000785,0.012773905,0.015324389,0.9496799
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6889-400.jpg,007-6889-400,N/A,4,Proliferative DR,3,Severe,0.56159604,0.008451404,0.0054474543,0.025728904,0.56159604,0.3987762
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6892-400.jpg,007-6892-400,N/A,4,Proliferative DR,3,Severe,0.37412837,0.017611649,0.2912242,0.24229126,0.37412837,0.07474451
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6914-400.jpg,007-6914-400,N/A,4,Proliferative DR,3,Severe,0.46986848,0.008225563,0.1331777,0.04087771,0.46986848,0.3478506
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6923-400.jpg,007-6923-400,N/A,4,Proliferative DR,4,Proliferative DR,0.9857248,0.005609513,0.0037178998,0.0043708934,0.00057686714,0.9857248
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6926-400.jpg,007-6926-400,N/A,4,Proliferative DR,4,Proliferative DR,0.6737592,0.0051980773,0.026029209,0.022722648,0.2722909,0.6737592
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6948-400.jpg,007-6948-400,N/A,4,Proliferative DR,1,Mild,0.9579855,0.0069602598,0.9579855,0.0008871115,0.01626711,0.017899986
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6952-400.jpg,007-6952-400,N/A,4,Proliferative DR,3,Severe,0.5420197,0.015973045,0.009801833,0.013261796,0.5420197,0.41894364
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6961-400.jpg,007-6961-400,N/A,4,Proliferative DR,1,Mild,0.5553222,0.08659607,0.5553222,0.08050591,0.048019364,0.22955649
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6973-400.jpg,007-6973-400,N/A,4,Proliferative DR,4,Proliferative DR,0.93516564,0.010807534,0.00926395,0.0015038856,0.043258935,0.93516564
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6977-400.jpg,007-6977-400,N/A,4,Proliferative DR,4,Proliferative DR,0.95935875,0.014825949,0.009352236,0.007126374,0.009336672,0.95935875
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6983-400.jpg,007-6983-400,N/A,4,Proliferative DR,4,Proliferative DR,0.98260605,0.0056831515,0.0059285797,0.0027099978,0.0030721405,0.98260605
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6986-400.jpg,007-6986-400,N/A,4,Proliferative DR,4,Proliferative DR,0.9817616,0.010735557,0.00165795,0.0048722005,0.0009727497,0.9817616
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6988-400.jpg,007-6988-400,N/A,4,Proliferative DR,4,Proliferative DR,0.9831165,0.008042142,0.0020740018,0.003414698,0.0033526428,0.9831165
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6990-400.jpg,007-6990-400,N/A,4,Proliferative DR,4,Proliferative DR,0.95110357,0.0048392797,0.010283396,0.0028679084,0.03090572,0.95110357
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6993-400.jpg,007-6993-400,N/A,4,Proliferative DR,4,Proliferative DR,0.9533921,0.006433979,0.005826326,0.0037011239,0.030646458,0.9533921
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7047-400.jpg,007-7047-400,N/A,4,Proliferative DR,4,Proliferative DR,0.9464983,0.009066189,0.017022701,0.004876339,0.022536397,0.9464983
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7056-400.jpg,007-7056-400,N/A,4,Proliferative DR,4,Proliferative DR,0.9737284,0.0011953643,0.005652387,0.00036664458,0.019057177,0.9737284
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7058-400.jpg,007-7058-400,N/A,4,Proliferative DR,4,Proliferative DR,0.9391112,0.010764915,0.019126927,0.013377013,0.017619895,0.9391112
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7060-400.jpg,007-7060-400,N/A,4,Proliferative DR,4,Proliferative DR,0.50517464,0.0153862275,0.28419745,0.015236176,0.18000552,0.50517464
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7104-400.jpg,007-7104-400,N/A,4,Proliferative DR,4,Proliferative DR,0.98780185,0.0009476057,0.0030396115,0.0010079596,0.0072030015,0.98780185
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7110-400.jpg,007-7110-400,N/A,4,Proliferative DR,4,Proliferative DR,0.7465863,0.04491281,0.045899216,0.012032699,0.15056898,0.7465863
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7111-400.jpg,007-7111-400,N/A,4,Proliferative DR,4,Proliferative DR,0.5465754,0.0062393257,0.017667275,0.011944961,0.417573,0.5465754
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7143-400.jpg,007-7143-400,N/A,4,Proliferative DR,4,Proliferative DR,0.8341487,0.011418201,0.1485084,0.0044615706,0.001463063,0.8341487
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7150-400.jpg,007-7150-400,N/A,4,Proliferative DR,1,Mild,0.46874988,0.025313605,0.46874988,0.24160787,0.041397102,0.22293156
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7152-400.jpg,007-7152-400,N/A,4,Proliferative DR,4,Proliferative DR,0.59567225,0.010778257,0.049013253,0.15501079,0.1895254,0.59567225
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7187-400.jpg,007-7187-400,N/A,4,Proliferative DR,4,Proliferative DR,0.5806089,0.016391592,0.12380671,0.123010956,0.15618186,0.5806089
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7198-400.jpg,007-7198-400,N/A,4,Proliferative DR,4,Proliferative DR,0.97163975,0.0030109354,0.014300817,0.003157667,0.0078908065,0.97163975
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7199-400.jpg,007-7199-400,N/A,4,Proliferative DR,4,Proliferative DR,0.9679087,0.0024327058,0.012768068,0.0034792144,0.013411284,0.9679087
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7202-400.jpg,007-7202-400,N/A,4,Proliferative DR,4,Proliferative DR,0.90655893,0.004766799,0.008180066,0.002087666,0.07840658,0.90655893
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7210-400.jpg,007-7210-400,N/A,4,Proliferative DR,4,Proliferative DR,0.5673941,0.01050834,0.013795499,0.010267469,0.39803457,0.5673941
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7212-400.jpg,007-7212-400,N/A,4,Proliferative DR,4,Proliferative DR,0.8480216,0.002755115,0.038746055,0.027653666,0.0828235,0.8480216
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7218-400.jpg,007-7218-400,N/A,4,Proliferative DR,3,Severe,0.82944894,0.005390948,0.025015822,0.022933532,0.82944894,0.11721072
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7225-400.jpg,007-7225-400,N/A,4,Proliferative DR,1,Mild,0.8409068,0.06397381,0.8409068,0.0029591857,0.04432066,0.047839575
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7233-400.jpg,007-7233-400,N/A,4,Proliferative DR,4,Proliferative DR,0.9824241,0.0053085745,0.0027709417,0.0030477934,0.0064486354,0.9824241
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7235-400.jpg,007-7235-400,N/A,4,Proliferative DR,2,Moderate,0.32662225,0.00789515,0.08001376,0.32662225,0.32584178,0.25962704
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7238-400.jpg,007-7238-400,N/A,4,Proliferative DR,1,Mild,0.5205732,0.06594982,0.5205732,0.013197589,0.052504543,0.34777483
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7239-400.jpg,007-7239-400,N/A,4,Proliferative DR,4,Proliferative DR,0.97844553,0.011807783,0.0045906734,0.003915316,0.001240559,0.97844553
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7250-400.jpg,007-7250-400,N/A,4,Proliferative DR,4,Proliferative DR,0.9633933,0.0054151397,0.003356951,0.009999124,0.01783546,0.9633933
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7255-400.jpg,007-7255-400,N/A,4,Proliferative DR,4,Proliferative DR,0.910117,0.002827181,0.04857447,0.017840624,0.020640822,0.910117
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7258-400.jpg,007-7258-400,N/A,4,Proliferative DR,4,Proliferative DR,0.83385766,0.00019437051,0.018603036,0.0005387541,0.14680625,0.83385766
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7259-400.jpg,007-7259-400,N/A,4,Proliferative DR,4,Proliferative DR,0.9237046,0.00021250767,0.003604426,0.0037254076,0.068753,0.9237046
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7283-601.jpg,007-7283-601,N/A,4,Proliferative DR,4,Proliferative DR,0.98351884,0.0063858745,0.0032332097,0.0012690106,0.005593048,0.98351884
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-7683-601.jpg,007-7683-601,N/A,4,Proliferative DR,4,Proliferative DR,0.9851857,0.0045990865,0.0060206475,0.0029175181,0.0012770873,0.9851857
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\0083ee8054ee.png,0083ee8054ee,N/A,4,Proliferative DR,2,Moderate,0.5595432,0.004607244,0.05260109,0.5595432,0.09443747,0.288811
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\0318598cfd16.png,0318598cfd16,N/A,4,Proliferative DR,2,Moderate,0.52435315,0.0040739784,0.44744936,0.52435315,0.009600731,0.0145228375
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\1fd5d860d4d7.png,1fd5d860d4d7,N/A,4,Proliferative DR,2,Moderate,0.81823736,0.007203044,0.078793645,0.81823736,0.05493937,0.04082659
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\3a6e9730b298.png,3a6e9730b298,N/A,4,Proliferative DR,2,Moderate,0.7359412,0.0034742039,0.01802394,0.7359412,0.12839913,0.11416156
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\3b232b394e4f.png,3b232b394e4f,N/A,4,Proliferative DR,4,Proliferative DR,0.7662912,0.022222016,0.039328594,0.087791726,0.08436646,0.7662912
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\518e880613de.png,518e880613de,N/A,4,Proliferative DR,2,Moderate,0.721962,0.0057743927,0.010986768,0.721962,0.2302166,0.03106032
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\5c7ab966a3ee.png,5c7ab966a3ee,N/A,4,Proliferative DR,4,Proliferative DR,0.6998829,0.011107913,0.030949883,0.045642104,0.21241719,0.6998829
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\6194e0fff071.png,6194e0fff071,N/A,4,Proliferative DR,4,Proliferative DR,0.68179154,0.0041041346,0.032454807,0.16686504,0.11478449,0.68179154
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\6f4719c6bb4b.png,6f4719c6bb4b,N/A,4,Proliferative DR,3,Severe,0.5003803,0.00647878,0.006184678,0.44573638,0.5003803,0.041219864
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\753b14c27c83.png,753b14c27c83,N/A,4,Proliferative DR,2,Moderate,0.38501954,0.00492805,0.26023537,0.38501954,0.12426093,0.22555606
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\887c26fc0e1f.png,887c26fc0e1f,N/A,4,Proliferative DR,2,Moderate,0.72675306,0.015014671,0.08906774,0.72675306,0.1426462,0.026518293
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\97da093947e8.png,97da093947e8,N/A,4,Proliferative DR,2,Moderate,0.571567,0.02033443,0.38100675,0.571567,0.016255846,0.010835967
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\a2ddabee14e9.png,a2ddabee14e9,N/A,4,Proliferative DR,2,Moderate,0.62807524,0.0054970565,0.3418485,0.62807524,0.007799433,0.01677978
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\b3819a805dca.png,b3819a805dca,N/A,4,Proliferative DR,4,Proliferative DR,0.34193486,0.020848466,0.10818452,0.23079522,0.29823694,0.34193486
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\b87f9c59748b.png,b87f9c59748b,N/A,4,Proliferative DR,2,Moderate,0.6561872,0.015031596,0.14231512,0.6561872,0.023754174,0.16271193
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\bc34ed91c9bc.png,bc34ed91c9bc,N/A,4,Proliferative DR,2,Moderate,0.46677777,0.015974892,0.13241057,0.46677777,0.07149165,0.3133451
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\c01eae4b4939.png,c01eae4b4939,N/A,4,Proliferative DR,4,Proliferative DR,0.7869759,0.024296207,0.009253421,0.08458386,0.094890624,0.7869759
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\d659d7fd5ccf.png,d659d7fd5ccf,N/A,4,Proliferative DR,4,Proliferative DR,0.76697785,0.009305984,0.0058097783,0.053661153,0.16424522,0.76697785
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\d9ba044671e1.png,d9ba044671e1,N/A,4,Proliferative DR,2,Moderate,0.82795376,0.017365322,0.0249462,0.82795376,0.018472956,0.11126183
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\e32dc722eca5.png,e32dc722eca5,N/A,4,Proliferative DR,2,Moderate,0.47251272,0.013403653,0.16101342,0.47251272,0.04801245,0.30505773
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\ef26625121b3.png,ef26625121b3,N/A,4,Proliferative DR,4,Proliferative DR,0.80369365,0.017579492,0.024586774,0.08800302,0.06613699,0.80369365
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\f549294e12e1.png,f549294e12e1,N/A,4,Proliferative DR,1,Mild,0.47247326,0.013531422,0.47247326,0.1973137,0.099962585,0.21671897
+A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\fb696a8e055a.png,fb696a8e055a,N/A,4,Proliferative DR,3,Severe,0.60379446,0.0069573936,0.049327698,0.25346732,0.60379446,0.08645319

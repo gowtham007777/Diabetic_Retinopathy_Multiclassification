@@ -1,0 +1,46 @@
+{
+  "feature_dim": 1536,
+  "total_parameters": 13659560,
+  "checkpoint_load": {
+    "raw_tensors": 593,
+    "compatible_tensors": 593,
+    "loaded_backbone": 572,
+    "loaded_attention": 4,
+    "loaded_feature_norm": 5,
+    "loaded_severity": 4,
+    "shape_mismatches": [],
+    "unexpected_original_keys": [],
+    "load_ratio_original_pathway": 1.0
+  },
+  "model_input": {
+    "size": 512,
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ]
+  },
+  "msag": {
+    "enabled": true,
+    "kernels": [
+      3,
+      5,
+      7
+    ],
+    "residual_identity_initialization": true,
+    "alpha_initial": 0.0,
+    "alpha_max_abs": 0.25
+  },
+  "anti_overfitting": {
+    "drop_path_rate": 0.1,
+    "weight_decay": 0.0001,
+    "label_smoothing": 0.1,
+    "gradient_clip": 1.0,
+    "staged_finetuning": true
+  }
+}

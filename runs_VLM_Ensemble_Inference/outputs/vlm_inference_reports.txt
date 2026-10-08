@@ -1,0 +1,621 @@
+================================================================================
+  VLM ENSEMBLE INFERENCE REPORTS
+  EfficientNet-B3 + MSAG  |  BiomedCLIP (zero-shot)  |  Ensemble
+================================================================================
+
+--------------------------------------------------------------------------------
+Image: 0e94cd271c00.png
+Path : A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\0e94cd271c00.png
+True label: No DR (class 0)
+
+[Ensemble Inference Report]
+This retinal fundus image shows no signs of diabetic retinopathy. The retina appears healthy with no visible microaneurysms, hemorrhages, or exudates.
+
+Predicted severity: No DR (89.2% confidence)
+
+Severity probability distribution:
+  No DR                 89.2%  [##########################....] <--
+  Mild                   5.9%  [#.............................]
+  Moderate               2.2%  [..............................]
+  Severe                 1.5%  [..............................]
+  Proliferative DR       1.2%  [..............................]
+
+[MSAG Inference Report]
+This retinal fundus image shows no signs of diabetic retinopathy. The retina appears healthy with no visible microaneurysms, hemorrhages, or exudates.
+
+Predicted severity: No DR (88.3% confidence)
+
+Severity probability distribution:
+  No DR                 88.3%  [##########################....] <--
+  Mild                   5.2%  [#.............................]
+  Moderate               3.1%  [..............................]
+  Severe                 2.0%  [..............................]
+  Proliferative DR       1.4%  [..............................]
+
+[BiomedCLIP VLM Inference Report]
+This retinal fundus image shows no signs of diabetic retinopathy. The retina appears healthy with no visible microaneurysms, hemorrhages, or exudates.
+
+Predicted severity: No DR (91.2% confidence)
+
+Severity probability distribution:
+  No DR                 91.2%  [###########################...] <--
+  Mild                   7.4%  [##............................]
+  Moderate               0.2%  [..............................]
+  Severe                 0.2%  [..............................]
+  Proliferative DR       1.0%  [..............................]
+
+--------------------------------------------------------------------------------
+Image: 20f86e068276.png
+Path : A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\20f86e068276.png
+True label: No DR (class 0)
+
+[Ensemble Inference Report]
+This retinal fundus image shows no signs of diabetic retinopathy. The retina appears healthy with no visible microaneurysms, hemorrhages, or exudates.
+
+Predicted severity: No DR (97.2% confidence)
+
+Severity probability distribution:
+  No DR                 97.2%  [#############################.] <--
+  Mild                   0.9%  [..............................]
+  Moderate               0.5%  [..............................]
+  Severe                 0.8%  [..............................]
+  Proliferative DR       0.6%  [..............................]
+
+[MSAG Inference Report]
+This retinal fundus image shows no signs of diabetic retinopathy. The retina appears healthy with no visible microaneurysms, hemorrhages, or exudates.
+
+Predicted severity: No DR (97.6% confidence)
+
+Severity probability distribution:
+  No DR                 97.6%  [#############################.] <--
+  Mild                   0.9%  [..............................]
+  Moderate               0.6%  [..............................]
+  Severe                 0.7%  [..............................]
+  Proliferative DR       0.3%  [..............................]
+
+[BiomedCLIP VLM Inference Report]
+This retinal fundus image shows no signs of diabetic retinopathy. The retina appears healthy with no visible microaneurysms, hemorrhages, or exudates.
+
+Predicted severity: No DR (96.2% confidence)
+
+Severity probability distribution:
+  No DR                 96.2%  [############################..] <--
+  Mild                   0.9%  [..............................]
+  Moderate               0.1%  [..............................]
+  Severe                 1.3%  [..............................]
+  Proliferative DR       1.4%  [..............................]
+
+--------------------------------------------------------------------------------
+Image: b0f0fa677d5f.png
+Path : A:\DR_classification\data\organized\pooled_aptos_ddr\test\0_No_DR\b0f0fa677d5f.png
+True label: No DR (class 0)
+
+[Ensemble Inference Report]
+This retinal fundus image shows no signs of diabetic retinopathy. The retina appears healthy with no visible microaneurysms, hemorrhages, or exudates.
+
+Predicted severity: No DR (96.2% confidence)
+
+Severity probability distribution:
+  No DR                 96.2%  [############################..] <--
+  Mild                   2.3%  [..............................]
+  Moderate               0.5%  [..............................]
+  Severe                 0.6%  [..............................]
+  Proliferative DR       0.4%  [..............................]
+
+[MSAG Inference Report]
+This retinal fundus image shows no signs of diabetic retinopathy. The retina appears healthy with no visible microaneurysms, hemorrhages, or exudates.
+
+Predicted severity: No DR (97.3% confidence)
+
+Severity probability distribution:
+  No DR                 97.3%  [#############################.] <--
+  Mild                   0.7%  [..............................]
+  Moderate               0.7%  [..............................]
+  Severe                 0.8%  [..............................]
+  Proliferative DR       0.4%  [..............................]
+
+[BiomedCLIP VLM Inference Report]
+This retinal fundus image shows no signs of diabetic retinopathy. The retina appears healthy with no visible microaneurysms, hemorrhages, or exudates.
+
+Predicted severity: No DR (93.4% confidence)
+
+Severity probability distribution:
+  No DR                 93.4%  [############################..] <--
+  Mild                   5.9%  [#.............................]
+  Moderate               0.1%  [..............................]
+  Severe                 0.2%  [..............................]
+  Proliferative DR       0.4%  [..............................]
+
+--------------------------------------------------------------------------------
+Image: 007-2034-100.jpg
+Path : A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\007-2034-100.jpg
+True label: Mild (class 1)
+
+[Ensemble Inference Report]
+This retinal fundus image shows mild nonproliferative diabetic retinopathy (NPDR). Early signs include a few microaneurysms in the retinal vasculature.
+
+Predicted severity: Mild (63.6% confidence)
+
+Severity probability distribution:
+  No DR                 33.7%  [##########....................]
+  Mild                  63.6%  [###################...........] <--
+  Moderate               0.5%  [..............................]
+  Severe                 0.6%  [..............................]
+  Proliferative DR       1.5%  [..............................]
+
+[MSAG Inference Report]
+This retinal fundus image shows mild nonproliferative diabetic retinopathy (NPDR). Early signs include a few microaneurysms in the retinal vasculature.
+
+Predicted severity: Mild (90.2% confidence)
+
+Severity probability distribution:
+  No DR                  7.8%  [##............................]
+  Mild                  90.2%  [###########################...] <--
+  Moderate               0.7%  [..............................]
+  Severe                 0.4%  [..............................]
+  Proliferative DR       1.0%  [..............................]
+
+[BiomedCLIP VLM Inference Report]
+This retinal fundus image shows no signs of diabetic retinopathy. The retina appears healthy with no visible microaneurysms, hemorrhages, or exudates.
+
+Predicted severity: No DR (94.2% confidence)
+
+Severity probability distribution:
+  No DR                 94.2%  [############################..] <--
+  Mild                   1.7%  [..............................]
+  Moderate               0.2%  [..............................]
+  Severe                 1.2%  [..............................]
+  Proliferative DR       2.8%  [..............................]
+
+--------------------------------------------------------------------------------
+Image: 0124dffecf29.png
+Path : A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\0124dffecf29.png
+True label: Mild (class 1)
+
+[Ensemble Inference Report]
+This retinal fundus image shows mild nonproliferative diabetic retinopathy (NPDR). Early signs include a few microaneurysms in the retinal vasculature.
+
+Predicted severity: Mild (59.7% confidence)
+
+Severity probability distribution:
+  No DR                 28.4%  [########......................]
+  Mild                  59.7%  [#################.............] <--
+  Moderate               8.8%  [##............................]
+  Severe                 1.2%  [..............................]
+  Proliferative DR       1.8%  [..............................]
+
+[MSAG Inference Report]
+This retinal fundus image shows mild nonproliferative diabetic retinopathy (NPDR). Early signs include a few microaneurysms in the retinal vasculature.
+
+Predicted severity: Mild (81.1% confidence)
+
+Severity probability distribution:
+  No DR                  2.5%  [..............................]
+  Mild                  81.1%  [########################......] <--
+  Moderate              12.5%  [###...........................]
+  Severe                 1.6%  [..............................]
+  Proliferative DR       2.3%  [..............................]
+
+[BiomedCLIP VLM Inference Report]
+This retinal fundus image shows no signs of diabetic retinopathy. The retina appears healthy with no visible microaneurysms, hemorrhages, or exudates.
+
+Predicted severity: No DR (89.0% confidence)
+
+Severity probability distribution:
+  No DR                 89.0%  [##########################....] <--
+  Mild                   9.8%  [##............................]
+  Moderate               0.1%  [..............................]
+  Severe                 0.4%  [..............................]
+  Proliferative DR       0.8%  [..............................]
+
+--------------------------------------------------------------------------------
+Image: 89ed6a0dd53f.png
+Path : A:\DR_classification\data\organized\pooled_aptos_ddr\test\1_Mild\89ed6a0dd53f.png
+True label: Mild (class 1)
+
+[Ensemble Inference Report]
+This retinal fundus image shows moderate nonproliferative diabetic retinopathy (NPDR). Findings include scattered hemorrhages, hard exudates, and cotton-wool spots.
+
+Predicted severity: Moderate (33.2% confidence)
+
+Severity probability distribution:
+  No DR                  1.8%  [..............................]
+  Mild                  31.6%  [#########.....................]
+  Moderate              33.2%  [#########.....................] <--
+  Severe                17.0%  [#####.........................]
+  Proliferative DR      16.4%  [####..........................]
+
+[MSAG Inference Report]
+This retinal fundus image shows moderate nonproliferative diabetic retinopathy (NPDR). Findings include scattered hemorrhages, hard exudates, and cotton-wool spots.
+
+Predicted severity: Moderate (45.7% confidence)
+
+Severity probability distribution:
+  No DR                  2.6%  [..............................]
+  Mild                  39.4%  [###########...................]
+  Moderate              45.7%  [#############.................] <--
+  Severe                 5.8%  [#.............................]
+  Proliferative DR       6.7%  [#.............................]
+
+[BiomedCLIP VLM Inference Report]
+This retinal fundus image shows severe nonproliferative diabetic retinopathy (NPDR). Extensive hemorrhages, venous beading, and intraretinal microvascular abnormalities (IRMA) are observed.
+
+Predicted severity: Severe (43.2% confidence)
+
+Severity probability distribution:
+  No DR                  0.2%  [..............................]
+  Mild                  13.3%  [###...........................]
+  Moderate               4.1%  [#.............................]
+  Severe                43.2%  [############..................] <--
+  Proliferative DR      39.2%  [###########...................]
+
+--------------------------------------------------------------------------------
+Image: 15528e740543.png
+Path : A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\15528e740543.png
+True label: Moderate (class 2)
+
+[Ensemble Inference Report]
+This retinal fundus image shows moderate nonproliferative diabetic retinopathy (NPDR). Findings include scattered hemorrhages, hard exudates, and cotton-wool spots.
+
+Predicted severity: Moderate (47.3% confidence)
+
+Severity probability distribution:
+  No DR                 17.2%  [#####.........................]
+  Mild                  21.3%  [######........................]
+  Moderate              47.3%  [##############................] <--
+  Severe                 8.8%  [##............................]
+  Proliferative DR       5.4%  [#.............................]
+
+[MSAG Inference Report]
+This retinal fundus image shows moderate nonproliferative diabetic retinopathy (NPDR). Findings include scattered hemorrhages, hard exudates, and cotton-wool spots.
+
+Predicted severity: Moderate (66.4% confidence)
+
+Severity probability distribution:
+  No DR                 12.5%  [###...........................]
+  Mild                  11.1%  [###...........................]
+  Moderate              66.4%  [###################...........] <--
+  Severe                 6.2%  [#.............................]
+  Proliferative DR       3.8%  [#.............................]
+
+[BiomedCLIP VLM Inference Report]
+This retinal fundus image shows mild nonproliferative diabetic retinopathy (NPDR). Early signs include a few microaneurysms in the retinal vasculature.
+
+Predicted severity: Mild (45.2% confidence)
+
+Severity probability distribution:
+  No DR                 28.2%  [########......................]
+  Mild                  45.2%  [#############.................] <--
+  Moderate               2.6%  [..............................]
+  Severe                14.8%  [####..........................]
+  Proliferative DR       9.1%  [##............................]
+
+--------------------------------------------------------------------------------
+Image: 524f240e0c90.png
+Path : A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\524f240e0c90.png
+True label: Moderate (class 2)
+
+[Ensemble Inference Report]
+This retinal fundus image shows moderate nonproliferative diabetic retinopathy (NPDR). Findings include scattered hemorrhages, hard exudates, and cotton-wool spots.
+
+Predicted severity: Moderate (58.4% confidence)
+
+Severity probability distribution:
+  No DR                  0.5%  [..............................]
+  Mild                   6.2%  [#.............................]
+  Moderate              58.4%  [#################.............] <--
+  Severe                20.7%  [######........................]
+  Proliferative DR      14.1%  [####..........................]
+
+[MSAG Inference Report]
+This retinal fundus image shows moderate nonproliferative diabetic retinopathy (NPDR). Findings include scattered hemorrhages, hard exudates, and cotton-wool spots.
+
+Predicted severity: Moderate (82.5% confidence)
+
+Severity probability distribution:
+  No DR                  0.6%  [..............................]
+  Mild                   5.2%  [#.............................]
+  Moderate              82.5%  [########################......] <--
+  Severe                10.4%  [###...........................]
+  Proliferative DR       1.4%  [..............................]
+
+[BiomedCLIP VLM Inference Report]
+This retinal fundus image shows severe nonproliferative diabetic retinopathy (NPDR). Extensive hemorrhages, venous beading, and intraretinal microvascular abnormalities (IRMA) are observed.
+
+Predicted severity: Severe (44.8% confidence)
+
+Severity probability distribution:
+  No DR                  0.3%  [..............................]
+  Mild                   8.7%  [##............................]
+  Moderate               2.4%  [..............................]
+  Severe                44.8%  [#############.................] <--
+  Proliferative DR      43.8%  [#############.................]
+
+--------------------------------------------------------------------------------
+Image: 6889bc64ab09.png
+Path : A:\DR_classification\data\organized\pooled_aptos_ddr\test\2_Moderate\6889bc64ab09.png
+True label: Moderate (class 2)
+
+[Ensemble Inference Report]
+This retinal fundus image shows moderate nonproliferative diabetic retinopathy (NPDR). Findings include scattered hemorrhages, hard exudates, and cotton-wool spots.
+
+Predicted severity: Moderate (62.4% confidence)
+
+Severity probability distribution:
+  No DR                  0.4%  [..............................]
+  Mild                   2.4%  [..............................]
+  Moderate              62.4%  [##################............] <--
+  Severe                17.4%  [#####.........................]
+  Proliferative DR      17.3%  [#####.........................]
+
+[MSAG Inference Report]
+This retinal fundus image shows moderate nonproliferative diabetic retinopathy (NPDR). Findings include scattered hemorrhages, hard exudates, and cotton-wool spots.
+
+Predicted severity: Moderate (86.8% confidence)
+
+Severity probability distribution:
+  No DR                  0.3%  [..............................]
+  Mild                   2.6%  [..............................]
+  Moderate              86.8%  [##########################....] <--
+  Severe                 9.2%  [##............................]
+  Proliferative DR       1.0%  [..............................]
+
+[BiomedCLIP VLM Inference Report]
+This retinal fundus image shows proliferative diabetic retinopathy (PDR). Neovascularization is present, indicating advanced disease with risk of vitreous hemorrhage and retinal detachment.
+
+Predicted severity: Proliferative DR (55.5% confidence)
+
+Severity probability distribution:
+  No DR                  0.5%  [..............................]
+  Mild                   2.0%  [..............................]
+  Moderate               5.5%  [#.............................]
+  Severe                36.5%  [##########....................]
+  Proliferative DR      55.5%  [################..............] <--
+
+--------------------------------------------------------------------------------
+Image: 007-3892-200.jpg
+Path : A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\007-3892-200.jpg
+True label: Severe (class 3)
+
+[Ensemble Inference Report]
+This retinal fundus image shows proliferative diabetic retinopathy (PDR). Neovascularization is present, indicating advanced disease with risk of vitreous hemorrhage and retinal detachment.
+
+Predicted severity: Proliferative DR (39.4% confidence)
+
+Severity probability distribution:
+  No DR                  5.7%  [#.............................]
+  Mild                   2.8%  [..............................]
+  Moderate              16.9%  [#####.........................]
+  Severe                35.3%  [##########....................]
+  Proliferative DR      39.4%  [###########...................] <--
+
+[MSAG Inference Report]
+This retinal fundus image shows severe nonproliferative diabetic retinopathy (NPDR). Extensive hemorrhages, venous beading, and intraretinal microvascular abnormalities (IRMA) are observed.
+
+Predicted severity: Severe (36.9% confidence)
+
+Severity probability distribution:
+  No DR                  8.1%  [##............................]
+  Mild                   2.7%  [..............................]
+  Moderate              16.7%  [#####.........................]
+  Severe                36.9%  [###########...................] <--
+  Proliferative DR      35.6%  [##########....................]
+
+[BiomedCLIP VLM Inference Report]
+This retinal fundus image shows proliferative diabetic retinopathy (PDR). Neovascularization is present, indicating advanced disease with risk of vitreous hemorrhage and retinal detachment.
+
+Predicted severity: Proliferative DR (48.4% confidence)
+
+Severity probability distribution:
+  No DR                  0.0%  [..............................]
+  Mild                   3.0%  [..............................]
+  Moderate              17.2%  [#####.........................]
+  Severe                31.4%  [#########.....................]
+  Proliferative DR      48.4%  [##############................] <--
+
+--------------------------------------------------------------------------------
+Image: eyepacs_32603_right.jpeg
+Path : A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_32603_right.jpeg
+True label: Severe (class 3)
+
+[Ensemble Inference Report]
+This retinal fundus image shows severe nonproliferative diabetic retinopathy (NPDR). Extensive hemorrhages, venous beading, and intraretinal microvascular abnormalities (IRMA) are observed.
+
+Predicted severity: Severe (67.4% confidence)
+
+Severity probability distribution:
+  No DR                  9.5%  [##............................]
+  Mild                   5.9%  [#.............................]
+  Moderate               2.3%  [..............................]
+  Severe                67.4%  [####################..........] <--
+  Proliferative DR      14.9%  [####..........................]
+
+[MSAG Inference Report]
+This retinal fundus image shows severe nonproliferative diabetic retinopathy (NPDR). Extensive hemorrhages, venous beading, and intraretinal microvascular abnormalities (IRMA) are observed.
+
+Predicted severity: Severe (91.1% confidence)
+
+Severity probability distribution:
+  No DR                  1.5%  [..............................]
+  Mild                   1.2%  [..............................]
+  Moderate               2.1%  [..............................]
+  Severe                91.1%  [###########################...] <--
+  Proliferative DR       4.0%  [#.............................]
+
+[BiomedCLIP VLM Inference Report]
+This retinal fundus image shows proliferative diabetic retinopathy (PDR). Neovascularization is present, indicating advanced disease with risk of vitreous hemorrhage and retinal detachment.
+
+Predicted severity: Proliferative DR (40.2% confidence)
+
+Severity probability distribution:
+  No DR                 27.9%  [########......................]
+  Mild                  16.9%  [#####.........................]
+  Moderate               2.7%  [..............................]
+  Severe                12.2%  [###...........................]
+  Proliferative DR      40.2%  [############..................] <--
+
+--------------------------------------------------------------------------------
+Image: eyepacs_42891_left.jpeg
+Path : A:\DR_classification\data\organized\pooled_aptos_ddr\test\3_Severe\eyepacs_42891_left.jpeg
+True label: Severe (class 3)
+
+[Ensemble Inference Report]
+This retinal fundus image shows severe nonproliferative diabetic retinopathy (NPDR). Extensive hemorrhages, venous beading, and intraretinal microvascular abnormalities (IRMA) are observed.
+
+Predicted severity: Severe (65.1% confidence)
+
+Severity probability distribution:
+  No DR                 18.4%  [#####.........................]
+  Mild                   4.7%  [#.............................]
+  Moderate               4.5%  [#.............................]
+  Severe                65.1%  [###################...........] <--
+  Proliferative DR       7.3%  [##............................]
+
+[MSAG Inference Report]
+This retinal fundus image shows severe nonproliferative diabetic retinopathy (NPDR). Extensive hemorrhages, venous beading, and intraretinal microvascular abnormalities (IRMA) are observed.
+
+Predicted severity: Severe (90.1% confidence)
+
+Severity probability distribution:
+  No DR                  0.4%  [..............................]
+  Mild                   4.9%  [#.............................]
+  Moderate               2.1%  [..............................]
+  Severe                90.1%  [###########################...] <--
+  Proliferative DR       2.5%  [..............................]
+
+[BiomedCLIP VLM Inference Report]
+This retinal fundus image shows no signs of diabetic retinopathy. The retina appears healthy with no visible microaneurysms, hemorrhages, or exudates.
+
+Predicted severity: No DR (60.4% confidence)
+
+Severity probability distribution:
+  No DR                 60.4%  [##################............] <--
+  Mild                   4.2%  [#.............................]
+  Moderate              10.2%  [###...........................]
+  Severe                 6.7%  [#.............................]
+  Proliferative DR      18.5%  [#####.........................]
+
+--------------------------------------------------------------------------------
+Image: 007-6344-400.jpg
+Path : A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6344-400.jpg
+True label: Proliferative DR (class 4)
+
+[Ensemble Inference Report]
+This retinal fundus image shows proliferative diabetic retinopathy (PDR). Neovascularization is present, indicating advanced disease with risk of vitreous hemorrhage and retinal detachment.
+
+Predicted severity: Proliferative DR (58.0% confidence)
+
+Severity probability distribution:
+  No DR                 14.5%  [####..........................]
+  Mild                   6.6%  [#.............................]
+  Moderate               3.3%  [..............................]
+  Severe                17.5%  [#####.........................]
+  Proliferative DR      58.0%  [#################.............] <--
+
+[MSAG Inference Report]
+This retinal fundus image shows proliferative diabetic retinopathy (PDR). Neovascularization is present, indicating advanced disease with risk of vitreous hemorrhage and retinal detachment.
+
+Predicted severity: Proliferative DR (67.3% confidence)
+
+Severity probability distribution:
+  No DR                  2.7%  [..............................]
+  Mild                   5.6%  [#.............................]
+  Moderate               3.0%  [..............................]
+  Severe                21.4%  [######........................]
+  Proliferative DR      67.3%  [####################..........] <--
+
+[BiomedCLIP VLM Inference Report]
+This retinal fundus image shows no signs of diabetic retinopathy. The retina appears healthy with no visible microaneurysms, hemorrhages, or exudates.
+
+Predicted severity: No DR (42.0% confidence)
+
+Severity probability distribution:
+  No DR                 42.0%  [############..................] <--
+  Mild                   8.8%  [##............................]
+  Moderate               4.1%  [#.............................]
+  Severe                 8.6%  [##............................]
+  Proliferative DR      36.5%  [##########....................]
+
+--------------------------------------------------------------------------------
+Image: 007-6741-400.jpg
+Path : A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\007-6741-400.jpg
+True label: Proliferative DR (class 4)
+
+[Ensemble Inference Report]
+This retinal fundus image shows severe nonproliferative diabetic retinopathy (NPDR). Extensive hemorrhages, venous beading, and intraretinal microvascular abnormalities (IRMA) are observed.
+
+Predicted severity: Severe (43.2% confidence)
+
+Severity probability distribution:
+  No DR                  2.5%  [..............................]
+  Mild                   2.0%  [..............................]
+  Moderate              18.5%  [#####.........................]
+  Severe                43.2%  [############..................] <--
+  Proliferative DR      33.8%  [##########....................]
+
+[MSAG Inference Report]
+This retinal fundus image shows severe nonproliferative diabetic retinopathy (NPDR). Extensive hemorrhages, venous beading, and intraretinal microvascular abnormalities (IRMA) are observed.
+
+Predicted severity: Severe (55.8% confidence)
+
+Severity probability distribution:
+  No DR                  3.6%  [#.............................]
+  Mild                   2.7%  [..............................]
+  Moderate               1.6%  [..............................]
+  Severe                55.8%  [################..............] <--
+  Proliferative DR      36.3%  [##########....................]
+
+[BiomedCLIP VLM Inference Report]
+This retinal fundus image shows moderate nonproliferative diabetic retinopathy (NPDR). Findings include scattered hemorrhages, hard exudates, and cotton-wool spots.
+
+Predicted severity: Moderate (58.0% confidence)
+
+Severity probability distribution:
+  No DR                  0.0%  [..............................]
+  Mild                   0.1%  [..............................]
+  Moderate              58.0%  [#################.............] <--
+  Severe                13.7%  [####..........................]
+  Proliferative DR      28.1%  [########......................]
+
+--------------------------------------------------------------------------------
+Image: 1fd5d860d4d7.png
+Path : A:\DR_classification\data\organized\pooled_aptos_ddr\test\4_Proliferative_DR\1fd5d860d4d7.png
+True label: Proliferative DR (class 4)
+
+[Ensemble Inference Report]
+This retinal fundus image shows proliferative diabetic retinopathy (PDR). Neovascularization is present, indicating advanced disease with risk of vitreous hemorrhage and retinal detachment.
+
+Predicted severity: Proliferative DR (30.4% confidence)
+
+Severity probability distribution:
+  No DR                 20.9%  [######........................]
+  Mild                  25.2%  [#######.......................]
+  Moderate              13.6%  [####..........................]
+  Severe                 9.9%  [##............................]
+  Proliferative DR      30.4%  [#########.....................] <--
+
+[MSAG Inference Report]
+This retinal fundus image shows proliferative diabetic retinopathy (PDR). Neovascularization is present, indicating advanced disease with risk of vitreous hemorrhage and retinal detachment.
+
+Predicted severity: Proliferative DR (38.7% confidence)
+
+Severity probability distribution:
+  No DR                  1.0%  [..............................]
+  Mild                  29.9%  [########......................]
+  Moderate              18.9%  [#####.........................]
+  Severe                11.5%  [###...........................]
+  Proliferative DR      38.7%  [###########...................] <--
+
+[BiomedCLIP VLM Inference Report]
+This retinal fundus image shows no signs of diabetic retinopathy. The retina appears healthy with no visible microaneurysms, hemorrhages, or exudates.
+
+Predicted severity: No DR (67.4% confidence)
+
+Severity probability distribution:
+  No DR                 67.4%  [####################..........] <--
+  Mild                  14.1%  [####..........................]
+  Moderate               1.1%  [..............................]
+  Severe                 6.3%  [#.............................]
+  Proliferative DR      11.0%  [###...........................]
+
+================================================================================

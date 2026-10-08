@@ -1,0 +1,24 @@
+{
+  "dataset": "ddr",
+  "best_epoch": 3,
+  "best_val_loss": 0.6420586564228214,
+  "test_metrics": {
+    "accuracy": 0.7530168946098149,
+    "macro_f1": 0.6248570816210767,
+    "weighted_f1": 0.7690768694286972,
+    "qwk": 0.7969314019128634,
+    "macro_roc_auc": 0.917198922080113,
+    "accuracy_ci95": [
+      0.72904201193787,
+      0.7769917772817598
+    ]
+  },
+  "counts": {
+    "full": 12422,
+    "train_original": 9936,
+    "train_oversampled": 24660,
+    "validation": 1243,
+    "test": 1243
+  },
+  "elapsed_minutes": 331.86849155823387
+}

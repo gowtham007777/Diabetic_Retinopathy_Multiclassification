@@ -1,0 +1,88 @@
+{
+  "paper": {
+    "title": "AI-driven detection and classification of diabetic retinopathy stages using EfficientNetB0",
+    "authors": [
+      "Deepak Dharrao",
+      "Madhuri Dharrao",
+      "Shreyas Patil",
+      "Sangeeth Salvin",
+      "Prashant Ahire",
+      "Yashwant Dongre"
+    ],
+    "journal": "Discover Applied Sciences",
+    "year": 2025,
+    "doi": "10.1007/s42452-025-07998-9"
+  },
+  "experiment": {
+    "dataset": "aptos",
+    "dataset_source_root": "A:\\DR_classification\\data\\organized\\aptos",
+    "seed": 42,
+    "device": "cuda",
+    "model": "EfficientNet-B1",
+    "msag": false,
+    "enhancement_modules": [],
+    "pretrained": true,
+    "pretrained_source": "Local official TorchVision EfficientNet-B1 ImageNet-1K IMAGENET1K_V1 checkpoint",
+    "pretrained_weights_path": "A:\\DR_classification\\weights\\efficientnet_b1_rwightman-533bc792.pth",
+    "image_size": [
+      224,
+      224
+    ],
+    "num_classes": 5,
+    "split": "80/10/10 before oversampling",
+    "oversampling": "random oversampling with replacement in TRAIN ONLY to majority class",
+    "validation_augmentation": false,
+    "test_augmentation": false,
+    "normalization": "pixel /255 followed by training-split global mean/std standardization",
+    "optimizer": "Adam",
+    "loss": "CrossEntropyLoss (categorical cross-entropy equivalent)",
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0,
+    "scheduler": {
+      "type": "ReduceLROnPlateau",
+      "factor": 0.1,
+      "patience_epochs": 10
+    },
+    "epochs": 50,
+    "batch_size": 16,
+    "workers": 2
+  },
+  "paper_specified_preprocessing": {
+    "green_channel": true,
+    "clahe": true,
+    "median_filter": true,
+    "resize": "224x224",
+    "normalization": "[0,1] and/or zero-mean/unit-variance described"
+  },
+  "implementation_defaults_not_specified_numerically_by_paper": {
+    "clahe_clip_limit": 2.0,
+    "clahe_tile_grid": [
+      8,
+      8
+    ],
+    "median_kernel": 3,
+    "augmentation_probability": 0.5,
+    "translation_fraction": 0.1,
+    "brightness_fraction": 0.2,
+    "contrast_fraction": 0.2,
+    "gamma_low": 0.8,
+    "gamma_high": 1.2,
+    "elastic_alpha": 20.0,
+    "elastic_sigma": 4.0,
+    "cutout_ratio": 0.2,
+    "initial_learning_rate": 0.0001,
+    "batch_size": 16,
+    "epochs": 50
+  },
+  "paper_augmentation_techniques": [
+    "random rotation +/-15 degrees",
+    "horizontal flip",
+    "vertical flip",
+    "translation",
+    "brightness variation",
+    "contrast variation",
+    "gamma variation",
+    "elastic deformation",
+    "cutout"
+  ]
+}

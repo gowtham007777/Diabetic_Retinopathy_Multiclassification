@@ -1,0 +1,24 @@
+{
+  "dataset": "aptos",
+  "best_epoch": 2,
+  "best_val_loss": 0.4722495135079082,
+  "test_metrics": {
+    "accuracy": 0.8205128205128205,
+    "macro_f1": 0.6684424433464455,
+    "weighted_f1": 0.8227163365285439,
+    "qwk": 0.870064998750024,
+    "macro_roc_auc": 0.9419314212773718,
+    "accuracy_ci95": [
+      0.7803650054205147,
+      0.8606606356051263
+    ]
+  },
+  "counts": {
+    "full": 3504,
+    "train_original": 2802,
+    "train_oversampled": 7180,
+    "validation": 351,
+    "test": 351
+  },
+  "elapsed_minutes": 178.3502420783043
+}

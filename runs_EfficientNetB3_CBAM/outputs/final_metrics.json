@@ -1,0 +1,321 @@
+{
+  "best_epoch": 28,
+  "best_val_qwk": 0.8994228656258478,
+  "dataset": {
+    "root": "A:\\DR_classification\\data\\organized\\pooled_aptos_ddr",
+    "train": 4150,
+    "val": 519,
+    "test": 518
+  },
+  "model": {
+    "architecture": "EfficientNet-B3 + CBAM",
+    "feature_dim": 1536,
+    "cbam": {
+      "reduction": 8,
+      "kernel_size": 7,
+      "channel_attention": "GAP + GMP + shared MLP",
+      "spatial_attention": "channel avg/max + 7x7 conv"
+    },
+    "classifier": "AdaptiveAvgPool2d -> Flatten -> Linear(1536,768) -> BatchNorm1d -> SiLU -> Dropout(0.45) -> Linear(768,5)",
+    "drop_path_rate": 0.1,
+    "total_parameters": 12471951,
+    "trainable_parameters_initial": 12471951,
+    "checkpoint_loading": {
+      "raw_tensors": 593,
+      "compatible_tensors": 593,
+      "backbone_loaded": 572,
+      "backbone_total": 572,
+      "backbone_load_ratio": 1.0,
+      "shape_mismatch_count": 0,
+      "missing_count": 0,
+      "unexpected_count": 0
+    },
+    "checkpoint_transfer": {
+      "copied_total_target_tensors": 576,
+      "copied_backbone": 572,
+      "backbone_expected": 572,
+      "semantic_head_tensors": 4,
+      "semantic_mappings": [
+        {
+          "source": "severity_classifier.0.weight",
+          "target": "classifier.2.weight",
+          "shape": [
+            768,
+            1536
+          ]
+        },
+        {
+          "source": "severity_classifier.0.bias",
+          "target": "classifier.2.bias",
+          "shape": [
+            768
+          ]
+        },
+        {
+          "source": "severity_classifier.3.weight",
+          "target": "classifier.6.weight",
+          "shape": [
+            5,
+            768
+          ]
+        },
+        {
+          "source": "severity_classifier.3.bias",
+          "target": "classifier.6.bias",
+          "shape": [
+            5
+          ]
+        }
+      ],
+      "new_cbam_head_tensors": 12,
+      "new_random_cbam_head_tensors": 8,
+      "nonmatching_source_tensors": 17,
+      "nonmatching_source_keys": [
+        "attention.2.weight",
+        "attention.2.bias",
+        "attention.4.weight",
+        "attention.4.bias",
+        "feature_norm.weight",
+        "feature_norm.bias",
+        "feature_norm.running_mean",
+        "feature_norm.running_var",
+        "feature_norm.num_batches_tracked",
+        "lesion_detector.0.weight",
+        "lesion_detector.0.bias",
+        "lesion_detector.3.weight",
+        "lesion_detector.3.bias",
+        "region_predictor.0.weight",
+        "region_predictor.0.bias",
+        "region_predictor.3.weight",
+        "region_predictor.3.bias"
+      ],
+      "shape_mismatch_count": 0,
+      "shape_mismatches": []
+    },
+    "preprocessing": {
+      "model_input_size": [
+        300,
+        300
+      ],
+      "normalization_mean": [
+        0.485,
+        0.456,
+        0.406
+      ],
+      "normalization_std": [
+        0.229,
+        0.224,
+        0.225
+      ],
+      "train_augmentation": {
+        "horizontal_flip": 0.5,
+        "rotation_degrees": 12,
+        "translation": [
+          0.04,
+          0.04
+        ],
+        "scale": [
+          0.93,
+          1.07
+        ],
+        "brightness": 0.1,
+        "contrast": 0.1,
+        "saturation": 0.06,
+        "hue": 0.02,
+        "random_resized_crop": false
+      },
+      "validation_test": "Resize 300x300 + ImageNet normalization"
+    }
+  },
+  "final_validation": {
+    "loss": 0.6949499494078532,
+    "accuracy": 0.8169556840077071,
+    "macro_f1": 0.8136979291417699,
+    "weighted_f1": 0.8158468066350679,
+    "qwk": 0.8994228656258478,
+    "macro_auc": 0.9596385939195503,
+    "precision": [
+      0.9396551724137931,
+      0.7878787878787878,
+      0.6864406779661016,
+      0.78125,
+      0.9
+    ],
+    "recall": [
+      0.990909090909091,
+      0.8041237113402062,
+      0.8804347826086957,
+      0.7425742574257426,
+      0.680672268907563
+    ],
+    "specificity": [
+      0.9828850855745721,
+      0.9502369668246445,
+      0.9133489461358314,
+      0.9497607655502392,
+      0.9775
+    ],
+    "f1": [
+      0.9646017699115045,
+      0.7959183673469388,
+      0.7714285714285714,
+      0.7614213197969543,
+      0.7751196172248803
+    ],
+    "auc_per_class": [
+      0.998088464103134,
+      0.9536326769922314,
+      0.9601618979737297,
+      0.9305746364110096,
+      0.955735294117647
+    ],
+    "support": [
+      110,
+      97,
+      92,
+      101,
+      119
+    ],
+    "confusion_matrix": [
+      [
+        109,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        7,
+        78,
+        10,
+        0,
+        2
+      ],
+      [
+        0,
+        8,
+        81,
+        2,
+        1
+      ],
+      [
+        0,
+        8,
+        12,
+        75,
+        6
+      ],
+      [
+        0,
+        4,
+        15,
+        19,
+        81
+      ]
+    ],
+    "min_true_probability": 0.0011977741960436106,
+    "mean_true_probability": 0.7429832706011666
+  },
+  "final_test": {
+    "loss": 0.6696651948464883,
+    "accuracy": 0.8146718146718147,
+    "macro_f1": 0.8128980090687625,
+    "weighted_f1": 0.8154601694818879,
+    "qwk": 0.8741517366821971,
+    "macro_auc": 0.965135919531569,
+    "precision": [
+      0.9541284403669725,
+      0.7321428571428571,
+      0.6782608695652174,
+      0.8210526315789474,
+      0.9195402298850575
+    ],
+    "recall": [
+      0.9454545454545454,
+      0.845360824742268,
+      0.8478260869565217,
+      0.7722772277227723,
+      0.6779661016949152
+    ],
+    "specificity": [
+      0.9877450980392157,
+      0.9287410926365796,
+      0.9131455399061033,
+      0.9592326139088729,
+      0.9825
+    ],
+    "f1": [
+      0.949771689497717,
+      0.7846889952153109,
+      0.7536231884057972,
+      0.7959183673469388,
+      0.7804878048780487
+    ],
+    "auc_per_class": [
+      0.9962121212121212,
+      0.9631951416607488,
+      0.95789957134109,
+      0.944559204121851,
+      0.9638135593220339
+    ],
+    "support": [
+      110,
+      97,
+      92,
+      101,
+      118
+    ],
+    "confusion_matrix": [
+      [
+        104,
+        6,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        82,
+        9,
+        3,
+        1
+      ],
+      [
+        3,
+        9,
+        78,
+        0,
+        2
+      ],
+      [
+        0,
+        5,
+        14,
+        78,
+        4
+      ],
+      [
+        0,
+        10,
+        14,
+        14,
+        80
+      ]
+    ],
+    "min_true_probability": 0.002261376241222024,
+    "mean_true_probability": 0.7537189463614647
+  },
+  "gradcam_reports_generated": 10,
+  "configuration": {
+    "epochs_requested": 50,
+    "batch_size": 16,
+    "accumulation_steps": 1,
+    "workers": 2,
+    "seed": 42,
+    "patience": 6,
+    "stage1_epochs": 5,
+    "stage2_epochs": 8,
+    "stage3_epochs": 37,
+    "smoke_test": false
+  }
+}

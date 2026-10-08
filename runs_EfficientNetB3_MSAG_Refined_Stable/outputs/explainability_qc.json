@@ -1,0 +1,6 @@
+{
+  "threshold_percent": 9.943146202414987,
+  "percentile": 5.0,
+  "train_images_used": 4150,
+  "important": "QC is used for explainability/reporting only. It does not remove images from model training, validation, or test."
+}
