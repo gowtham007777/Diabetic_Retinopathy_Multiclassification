@@ -1,0 +1,43 @@
+{
+    "model": "VGG19",
+    "dataset": "APTOS 2019",
+    "image_size": 224,
+    "batch_size": 16,
+    "epochs_requested": 50,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0005,
+    "optimizer": "AdamW",
+    "scheduler": "ReduceLROnPlateau",
+    "scheduler_factor": 0.5,
+    "scheduler_patience": 3,
+    "early_stopping_patience": 100,
+    "seed": 42,
+    "num_classes": 5,
+    "class_names": [
+        "0_No_DR",
+        "1_Mild",
+        "2_Moderate",
+        "3_Severe",
+        "4_Proliferative_DR"
+    ],
+    "device": "cuda",
+    "best_epoch": 37,
+    "best_validation_macro_f1": 0.6971109885555277,
+    "test_metrics": {
+        "accuracy": 0.8404558404558404,
+        "precision_macro": 0.721092799032984,
+        "recall_macro": 0.6442351046698873,
+        "f1_macro": 0.6697568363057124,
+        "precision_weighted": 0.8385036359961524,
+        "recall_weighted": 0.8404558404558404,
+        "f1_weighted": 0.8325649231792147,
+        "balanced_accuracy": 0.6442351046698873,
+        "kappa": 0.75037147102526,
+        "mcc": 0.7542906945085461
+    },
+    "roc_auc_macro": 0.9493568648811918,
+    "roc_auc_weighted": 0.9686679559845797,
+    "pr_auc_macro": 0.7259546227962302,
+    "log_loss": 0.7660305008174416,
+    "mean_brier_score": 0.054076641847801296
+}

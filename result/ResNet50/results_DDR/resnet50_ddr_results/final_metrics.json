@@ -1,0 +1,20 @@
+{
+    "Model": "ResNet50",
+    "Dataset": "DDR",
+    "Test Samples": 1243,
+    "Accuracy": 0.827031375703942,
+    "Macro Precision": 0.649269415077075,
+    "Macro Recall": 0.6062075973426037,
+    "Macro F1": 0.625248465130923,
+    "Weighted Precision": 0.8195609603439665,
+    "Weighted Recall": 0.827031375703942,
+    "Weighted F1": 0.8221732172608932,
+    "Balanced Accuracy": 0.6062075973426037,
+    "Cohen Kappa": 0.7133982011043893,
+    "MCC": 0.7143782514985102,
+    "ROC-AUC Macro": 0.9030089472641141,
+    "ROC-AUC Weighted": 0.9382805828087227,
+    "PR-AUC Macro": 0.6510740439173313,
+    "Log Loss": 0.7773585369534677,
+    "Best Val Macro F1": 0.6656183227720919
+}

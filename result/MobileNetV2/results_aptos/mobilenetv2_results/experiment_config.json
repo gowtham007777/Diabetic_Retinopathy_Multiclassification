@@ -1,0 +1,15 @@
+{
+    "model": "MobileNetV2",
+    "dataset": "APTOS 2019",
+    "num_classes": 5,
+    "image_size": 224,
+    "epochs": 50,
+    "batch_size": 16,
+    "num_workers": 2,
+    "learning_rate": 0.0001,
+    "weight_decay": 1e-05,
+    "optimizer": "Adam",
+    "seed": 42,
+    "best_epoch": 37,
+    "best_validation_macro_f1": 0.7228255813953488
+}

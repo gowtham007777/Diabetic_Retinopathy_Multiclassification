@@ -1,0 +1,20 @@
+{
+    "Model": "ResNet50",
+    "Dataset": "APTOS 2019",
+    "Test Samples": 351,
+    "Accuracy": 0.8091168091168092,
+    "Macro Precision": 0.6652805146436431,
+    "Macro Recall": 0.7077304158378328,
+    "Macro F1": 0.6811108225834717,
+    "Weighted Precision": 0.8206605615916603,
+    "Weighted Recall": 0.8091168091168092,
+    "Weighted F1": 0.811438805575306,
+    "Balanced Accuracy": 0.7077304158378328,
+    "Cohen Kappa": 0.7108980269223677,
+    "MCC": 0.7128623624689402,
+    "ROC-AUC Macro": 0.9273390293062423,
+    "ROC-AUC Weighted": 0.9573659481246242,
+    "PR-AUC Macro": 0.6959787555756478,
+    "Log Loss": 0.620904251007017,
+    "Best Val Macro F1": 0.7001347685760833
+}

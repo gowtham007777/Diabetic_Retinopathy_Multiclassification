@@ -1,0 +1,29 @@
+{
+    "model": "MobileNetV2",
+    "pretrained": "ImageNet IMAGENET1K_V2",
+    "dataset": "DDR",
+    "dataset_root": "/kaggle/input/datasets/samjohnstonc/ddr-prepared/data/organized/ddr",
+    "train_images": 9937,
+    "validation_images": 1242,
+    "test_images": 1243,
+    "classes": [
+        "No_DR",
+        "Mild",
+        "Moderate",
+        "Severe",
+        "Proliferative_DR"
+    ],
+    "num_classes": 5,
+    "image_size": 224,
+    "batch_size": 16,
+    "epochs": 50,
+    "optimizer": "AdamW",
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0005,
+    "oversampling": true,
+    "scheduler": "ReduceLROnPlateau",
+    "checkpoint_metric": "f1_macro",
+    "seed": 42,
+    "device": "cuda",
+    "training_time_hours": 4.117298400534524
+}

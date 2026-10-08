@@ -1,0 +1,27 @@
+{
+    "model": "ResNet50",
+    "dataset": "DDR",
+    "image_size": 224,
+    "batch_size": 16,
+    "epochs": 50,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0005,
+    "optimizer": "AdamW",
+    "scheduler": "ReduceLROnPlateau",
+    "early_stopping_patience": 100,
+    "oversampling": true,
+    "num_workers": 2,
+    "seed": 42,
+    "pretrained": true,
+    "weights": "ResNet50_Weights.IMAGENET1K_V2",
+    "classes": [
+        "0_No_DR",
+        "1_Mild",
+        "2_Moderate",
+        "3_Severe",
+        "4_Proliferative_DR"
+    ],
+    "train_samples": 9937,
+    "validation_samples": 1242,
+    "test_samples": 1243
+}
